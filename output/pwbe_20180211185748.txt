@@ -1,6 +1,0 @@
-School3              108
-Kitchener            108
-School2              3000
-School1              3000
-Waterloo             6000
-ON                   6108
