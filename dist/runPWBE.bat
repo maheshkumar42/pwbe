@@ -1,0 +1,1 @@
+java -Dlog4j.configurationFile=File:etc/log4j2.xml -jar bin/pwbe.jar etc/config.xml

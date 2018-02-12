@@ -1,0 +1,6 @@
+School3              51
+Kitchener            51
+School2              3000
+School1              3000
+Waterloo             6000
+ON                   6051

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fileDetails>
+	<inputFile>input//inputStats.txt</inputFile>
+	<outputFile>
+		<!-- Application adds the extension of .txt to the outputFileName -->
+		<name>output//pwbe</name>
+		<overrideExistingFile>false</overrideExistingFile>
+	</outputFile>
+	<logFile>log//pwbe.log</logFile>
+</fileDetails>

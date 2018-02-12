@@ -1,0 +1,2006 @@
+2018-02-10 16:15:22.865 [main] ERROR com.comrench.Main - ERROR FOUND
+2018-02-10 16:15:22.873 [main] DEBUG com.comrench.Main - I am debug message
+2018-02-10 16:15:22.873 [main] INFO  com.comrench.Main - I am just info message
+2018-02-10 16:15:44.362 [main] ERROR com.comrench.Main - ERROR FOUND
+2018-02-10 16:15:44.369 [main] DEBUG com.comrench.Main - I am debug message
+2018-02-10 16:15:44.370 [main] INFO  com.comrench.Main - I am just info message
+2018-02-10 16:59:30.486 [main] ERROR com.comrench.Main - ERROR FOUND
+2018-02-10 16:59:30.496 [main] DEBUG com.comrench.Main - I am debug message
+2018-02-10 16:59:30.497 [main] INFO  com.comrench.Main - I am just info message
+2018-02-10 17:01:03.845 [main] ERROR com.comrench.Main - ERROR FOUND
+2018-02-10 17:01:03.851 [main] DEBUG com.comrench.Main - I am debug message
+2018-02-10 17:01:03.852 [main] INFO  com.comrench.Main - I am just info message
+2018-02-10 17:01:23.004 [main] ERROR com.comrench.Main - ERROR FOUND
+2018-02-10 17:01:23.013 [main] DEBUG com.comrench.Main - I am debug message
+2018-02-10 17:01:23.014 [main] INFO  com.comrench.Main - I am just info message
+2018-02-10 17:02:28.746 [main] ERROR com.comrench.Manage - ERROR FOUND
+2018-02-10 17:02:28.754 [main] DEBUG com.comrench.Manage - I am debug message
+2018-02-10 17:02:28.755 [main] INFO  com.comrench.Manage - I am just info message
+2018-02-10 17:02:28.765 [main] ERROR com.comrench.Main - ERROR FOUND
+2018-02-10 17:02:28.766 [main] DEBUG com.comrench.Main - I am debug message
+2018-02-10 17:02:28.766 [main] INFO  com.comrench.Main - I am just info message
+2018-02-10 17:05:35.592 [main] ERROR com.comrench.Main - ERROR FOUND
+2018-02-10 17:05:35.600 [main] DEBUG com.comrench.Main - I am debug message
+2018-02-10 17:05:35.601 [main] INFO  com.comrench.Main - I am just info message
+2018-02-10 17:05:35.612 [main] ERROR com.comrench.Main - ERROR FOUND
+2018-02-10 17:05:35.612 [main] DEBUG com.comrench.Main - I am debug message
+2018-02-10 17:05:35.612 [main] INFO  com.comrench.Main - I am just info message
+2018-02-10 17:07:22.077 [main] ERROR com.comrench.Manage - ERROR FOUND
+2018-02-10 17:07:22.085 [main] DEBUG com.comrench.Manage - I am debug message
+2018-02-10 17:07:22.086 [main] INFO  com.comrench.Manage - I am just info message
+2018-02-10 17:07:22.097 [main] ERROR com.comrench.Main - ERROR FOUND
+2018-02-10 17:07:22.097 [main] DEBUG com.comrench.Main - I am debug message
+2018-02-10 17:07:22.097 [main] INFO  com.comrench.Main - I am just info message
+2018-02-10 17:09:12.327 [main] ERROR com.comrench.Manage - ERROR FOUND
+2018-02-10 17:09:12.337 [main] DEBUG com.comrench.Manage - I am debug message
+2018-02-10 17:09:12.338 [main] INFO  com.comrench.Manage - I am just info message
+2018-02-10 17:09:12.349 [main] ERROR com.comrench.Main - ERROR FOUND
+2018-02-10 17:09:12.349 [main] DEBUG com.comrench.Main - I am debug message
+2018-02-10 17:09:12.350 [main] INFO  com.comrench.Main - I am just info message
+2018-02-10 17:53:52.313 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 17:58:01.176 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 17:58:01.185 [main] ERROR com.comrench.Main - Usage : java -Dlog4j.configurationFile=File:etc/log4j2.xml -jar pwbe.jar etc/input.xml
+2018-02-10 17:58:43.737 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 17:58:43.744 [main] ERROR com.comrench.Main - Usage : java -Dlog4j.configurationFile=File:etc/log4j2.xml -jar pwbe.jar etc/input.xml
+2018-02-10 17:58:43.745 [main] ERROR com.comrench.Main - Terminating now ...
+2018-02-10 18:02:01.753 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 18:02:01.761 [main] ERROR com.comrench.Main - Usage : java -Dlog4j.configurationFile=File:etc/log4j2.xml -jar pwbe.jar etc/input.xml
+2018-02-10 18:02:01.762 [main] ERROR com.comrench.Main - Terminating now.
+2018-02-10 18:03:32.199 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 18:03:32.206 [main] ERROR com.comrench.Main - Usage   : java -Dlog4j.configurationFile=File:etc/<log4jXmlFile> -jar pwbe.jar <inputXmlFile>
+2018-02-10 18:03:32.206 [main] ERROR com.comrench.Main - Example : java -Dlog4j.configurationFile=File:etc/log4j2.xml -jar pwbe.jar etc/input.xml
+2018-02-10 18:03:32.207 [main] ERROR com.comrench.Main - Terminating now.
+2018-02-10 18:32:30.625 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 18:32:30.632 [main] ERROR com.comrench.Main - Usage   : java -Dlog4j.configurationFile=File:etc/<log4jXmlFile> -jar pwbe.jar <inputXmlFile>
+2018-02-10 18:32:30.633 [main] ERROR com.comrench.Main - Example : java -Dlog4j.configurationFile=File:etc/log4j2.xml -jar pwbe.jar etc/input.xml
+2018-02-10 18:32:30.633 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-10 18:33:04.763 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 18:33:04.771 [main] ERROR com.comrench.Main - Input argument missing.
+2018-02-10 18:33:04.772 [main] ERROR com.comrench.Main - Usage   : java -Dlog4j.configurationFile=File:etc/<log4jXmlFile> -jar pwbe.jar <inputXmlFile>
+2018-02-10 18:33:04.772 [main] ERROR com.comrench.Main - Example : java -Dlog4j.configurationFile=File:etc/log4j2.xml -jar pwbe.jar etc/input.xml
+2018-02-10 18:33:04.773 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-10 18:33:20.443 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 18:33:20.450 [main] ERROR com.comrench.Main - Input argument MISSING.
+2018-02-10 18:33:20.451 [main] ERROR com.comrench.Main - Usage   : java -Dlog4j.configurationFile=File:etc/<log4jXmlFile> -jar pwbe.jar <inputXmlFile>
+2018-02-10 18:33:20.452 [main] ERROR com.comrench.Main - Example : java -Dlog4j.configurationFile=File:etc/log4j2.xml -jar pwbe.jar etc/input.xml
+2018-02-10 18:33:20.452 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-10 18:33:58.453 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 18:33:58.461 [main] ERROR com.comrench.Main - Input argument MISSING.
+2018-02-10 18:33:58.461 [main] ERROR com.comrench.Main - Usage   : java -Dlog4j.configurationFile=File:etc/<log4j2XmlFile> -jar <jarFile> <inputXmlFile>
+2018-02-10 18:33:58.462 [main] ERROR com.comrench.Main - Example : java -Dlog4j.configurationFile=File:etc/log4j2.xml -jar pwbe.jar etc/input.xml
+2018-02-10 18:33:58.462 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-10 18:34:17.556 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 18:34:17.563 [main] ERROR com.comrench.Main - Input argument MISSING.
+2018-02-10 18:34:17.564 [main] ERROR com.comrench.Main - Usage   : java -Dlog4j.configurationFile=File:<log4j2XmlFile> -jar <jarFile> <inputXmlFile>
+2018-02-10 18:34:17.564 [main] ERROR com.comrench.Main - Example : java -Dlog4j.configurationFile=File:etc/log4j2.xml -jar pwbe.jar etc/input.xml
+2018-02-10 18:34:17.565 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-10 19:24:24.112 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 19:24:24.120 [main] ERROR com.comrench.Main - Input argument MISSING.
+2018-02-10 19:24:24.121 [main] ERROR com.comrench.Main - Usage   : java -Dlog4j.configurationFile=File:<log4j2XmlFile> -jar <jarFile> <inputXmlFile>
+2018-02-10 19:24:24.122 [main] ERROR com.comrench.Main - Example : java -Dlog4j.configurationFile=File:etc/log4j2.xml -jar pwbe.jar etc/input.xml
+2018-02-10 19:24:24.122 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-10 19:25:30.274 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 19:25:30.282 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 19:25:30.501 [main] ERROR com.comrench.Manage - ERROR FOUND
+2018-02-10 19:25:30.501 [main] DEBUG com.comrench.Manage - I am debug message
+2018-02-10 19:25:30.502 [main] INFO  com.comrench.Manage - I am just info message
+2018-02-10 19:25:30.569 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-10 19:27:03.680 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 19:27:03.688 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 19:27:03.775 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-10 19:27:03.781 [main] ERROR com.comrench.Manage - ERROR FOUND
+2018-02-10 19:27:03.781 [main] DEBUG com.comrench.Manage - I am debug message
+2018-02-10 19:27:03.781 [main] INFO  com.comrench.Manage - I am just info message
+2018-02-10 19:27:03.792 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-10 19:31:36.877 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 19:31:36.884 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 19:31:36.979 [main] ERROR com.comrench.Main - Input Configuration file not found.
+2018-02-10 19:31:36.980 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-10 19:31:36.988 [main] ERROR com.comrench.Manage - ERROR FOUND
+2018-02-10 19:31:36.990 [main] DEBUG com.comrench.Manage - I am debug message
+2018-02-10 19:31:36.990 [main] INFO  com.comrench.Manage - I am just info message
+2018-02-10 19:32:50.566 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 19:32:50.574 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 19:32:50.655 [main] ERROR com.comrench.Main - Input Configuration file not found.
+2018-02-10 19:33:17.425 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 19:33:17.433 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 19:33:17.530 [main] ERROR com.comrench.Main - Input Configuration file not found.
+2018-02-10 19:35:35.117 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 19:35:35.125 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 19:35:35.208 [main] ERROR com.comrench.Main - Input Configuration file not found.
+2018-02-10 19:37:12.565 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 19:37:12.573 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 19:37:12.663 [main] ERROR com.comrench.Main - Input Configuration file not found at location: etc//pwbe.xml
+2018-02-10 19:38:22.348 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 19:38:22.355 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 19:38:22.446 [main] ERROR com.comrench.Main - Input Configuration file not found at location: etc/pwbe.xml
+2018-02-10 19:38:46.268 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 19:38:46.276 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 19:38:46.359 [main] ERROR com.comrench.Main - Input Configuration file not found at location: etc/pwbe.xml
+2018-02-10 19:39:31.217 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 19:39:31.224 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 19:39:31.308 [main] ERROR com.comrench.Main - Input Configuration file not found at location: etc/pwbe.xml
+2018-02-10 19:40:36.283 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 19:40:36.290 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 19:40:36.374 [main] ERROR com.comrench.Main - Input Configuration file not found at location: etc/pwbe.xml
+2018-02-10 19:41:35.435 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 19:41:35.442 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 19:41:35.530 [main] ERROR com.comrench.Main - Input Configuration file not found at location: etc/config.xml
+2018-02-10 19:43:47.358 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 19:43:47.365 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 19:43:47.452 [main] ERROR com.comrench.Main - Input Configuration file not found at location: etc/config.xml
+2018-02-10 19:44:04.780 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 19:44:04.787 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 19:44:04.871 [main] ERROR com.comrench.Main - Input Configuration file not found at location: etc/config.xml
+2018-02-10 19:45:15.236 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 19:45:15.243 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 19:45:15.420 [main] ERROR com.comrench.Main - Unable to read parse input XML file.
+2018-02-10 19:47:26.218 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 19:47:26.227 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 19:47:26.347 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-10 19:47:26.353 [main] ERROR com.comrench.Manage - ERROR FOUND
+2018-02-10 19:47:26.354 [main] DEBUG com.comrench.Manage - I am debug message
+2018-02-10 19:47:26.354 [main] INFO  com.comrench.Manage - I am just info message
+2018-02-10 19:50:10.647 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 19:50:10.656 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 19:50:10.749 [main] ERROR com.comrench.Main - Input Configuration file not found at location: etc/config.xml
+2018-02-10 19:50:32.920 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 19:50:32.927 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 19:50:33.052 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-10 19:50:33.058 [main] ERROR com.comrench.Manage - ERROR FOUND
+2018-02-10 19:50:33.058 [main] DEBUG com.comrench.Manage - I am debug message
+2018-02-10 19:50:33.058 [main] INFO  com.comrench.Manage - I am just info message
+2018-02-10 19:52:18.669 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 19:52:18.676 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 19:57:41.067 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 19:57:41.076 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 19:58:09.588 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 19:58:09.595 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 19:58:28.282 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 19:58:28.289 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 19:58:39.053 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 19:58:39.061 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 20:01:01.410 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 20:01:01.417 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 20:01:33.754 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 20:01:33.761 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 20:01:53.806 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 20:01:53.814 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 20:01:53.934 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-10 20:01:53.934 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-10 20:01:53.935 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-10 20:01:53.935 [main] DEBUG com.comrench.Main - Log file: log//pwbe.log
+2018-02-10 20:01:53.935 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-10 20:01:53.935 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-10 20:01:53.943 [main] ERROR com.comrench.Manage - ERROR FOUND
+2018-02-10 20:01:53.943 [main] DEBUG com.comrench.Manage - I am debug message
+2018-02-10 20:01:53.944 [main] INFO  com.comrench.Manage - I am just info message
+2018-02-10 20:01:53.958 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-10 20:04:14.060 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 20:04:14.069 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 20:04:14.194 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-10 20:04:14.195 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-10 20:04:14.195 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-10 20:04:14.196 [main] DEBUG com.comrench.Main - Log file: log//pwbe.log
+2018-02-10 20:04:14.197 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-10 20:04:14.198 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-10 20:04:14.210 [main] ERROR com.comrench.Manage - ERROR FOUND
+2018-02-10 20:04:14.211 [main] DEBUG com.comrench.Manage - I am debug message
+2018-02-10 20:04:14.211 [main] INFO  com.comrench.Manage - I am just info message
+2018-02-10 20:04:14.241 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-10 20:04:32.086 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 20:04:32.095 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 20:04:32.229 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-10 20:04:32.229 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-10 20:04:32.230 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-10 20:04:32.230 [main] DEBUG com.comrench.Main - Log file: log//pwbe.log
+2018-02-10 20:04:32.231 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-10 20:04:32.231 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-10 20:04:32.238 [main] ERROR com.comrench.Manage - ERROR FOUND
+2018-02-10 20:04:32.238 [main] DEBUG com.comrench.Manage - I am debug message
+2018-02-10 20:04:32.239 [main] INFO  com.comrench.Manage - I am just info message
+2018-02-10 20:04:32.253 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-10 20:04:59.331 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 20:04:59.339 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 20:04:59.461 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-10 20:04:59.462 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-10 20:04:59.462 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-10 20:04:59.462 [main] DEBUG com.comrench.Main - Log file: log//pwbe.log
+2018-02-10 20:04:59.463 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-10 20:04:59.463 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-10 20:04:59.470 [main] ERROR com.comrench.Manage - ERROR FOUND
+2018-02-10 20:04:59.470 [main] DEBUG com.comrench.Manage - I am debug message
+2018-02-10 20:04:59.470 [main] INFO  com.comrench.Manage - I am just info message
+2018-02-10 20:04:59.482 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-10 20:05:45.902 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 20:05:45.909 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 20:05:46.029 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-10 20:05:46.029 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-10 20:05:46.030 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-10 20:05:46.030 [main] DEBUG com.comrench.Main - Log file: log//pwbe.log
+2018-02-10 20:05:46.030 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-10 20:05:46.031 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-10 20:05:46.049 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-10 20:06:55.839 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 20:06:55.846 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 20:06:55.956 [main] ERROR com.comrench.Main - Input Configuration file not found at location: etc/config.xml
+2018-02-10 20:08:16.269 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 20:08:16.276 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 20:08:16.400 [main] ERROR com.comrench.Main - Input Configuration file not found at location: etc/config.xml
+2018-02-10 20:08:50.109 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 20:08:50.116 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 20:08:50.234 [main] ERROR com.comrench.Main - Input Configuration file not found at location: etc/config.xml
+2018-02-10 20:09:04.468 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 20:09:04.475 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 20:09:04.588 [main] ERROR com.comrench.Main - Input Configuration file not found at location: etc/config.xml
+2018-02-10 20:09:20.871 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 20:09:20.878 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 20:09:20.985 [main] ERROR com.comrench.Main - Input Configuration file not found at location: etc/config.xml
+2018-02-10 20:09:40.419 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 20:09:40.428 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 20:09:40.545 [main] ERROR com.comrench.Main - Input Configuration file not found at location: etc/config.xml
+2018-02-10 20:11:08.531 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 20:11:08.539 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 20:11:08.677 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-10 20:11:08.677 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-10 20:11:08.678 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-10 20:11:08.678 [main] DEBUG com.comrench.Main - Log file: log//pwbe.log
+2018-02-10 20:11:08.678 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-10 20:11:08.678 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-10 20:11:08.697 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-10 20:11:45.391 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 20:11:45.400 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 20:11:45.555 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-10 20:11:45.556 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-10 20:11:45.556 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-10 20:11:45.556 [main] DEBUG com.comrench.Main - Log file: log//pwbe.log
+2018-02-10 20:11:45.557 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-10 20:11:45.557 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-10 20:11:45.578 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-10 21:50:46.475 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 21:50:46.483 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 21:50:46.630 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-10 21:50:46.630 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-10 21:50:46.630 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-10 21:50:46.630 [main] DEBUG com.comrench.Main - Log file: log//pwbe.log
+2018-02-10 21:50:46.630 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-10 21:50:46.630 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-10 21:50:46.650 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-10 21:56:05.638 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 21:56:05.648 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 21:56:05.800 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-10 21:56:05.800 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-10 21:56:05.800 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-10 21:56:05.800 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-10 21:56:05.800 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-10 21:56:05.824 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-10 22:03:02.313 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 22:03:02.325 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 22:03:02.486 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-10 22:03:02.486 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-10 22:03:02.486 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-10 22:03:02.486 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-10 22:03:02.490 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-10 22:03:02.526 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-10 22:05:09.167 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 22:05:09.177 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 22:05:09.309 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-10 22:05:09.309 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-10 22:05:09.309 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-10 22:05:09.309 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-10 22:05:09.309 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-10 22:05:09.329 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-10 22:06:09.649 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 22:06:09.657 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 22:06:09.789 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-10 22:06:09.789 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-10 22:06:09.789 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-10 22:06:09.793 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-10 22:06:09.793 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-10 22:06:09.813 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-10 22:34:21.453 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 22:34:21.459 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 22:34:21.621 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-10 22:34:21.622 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-10 22:34:21.622 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-10 22:34:21.622 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-10 22:34:21.623 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-10 22:34:21.646 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-10 22:40:00.927 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 22:40:00.927 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 22:40:01.055 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-10 22:40:01.055 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-10 22:40:01.055 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-10 22:40:01.055 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-10 22:40:01.055 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-10 22:40:01.071 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-10 22:42:58.184 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 22:42:58.203 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 22:42:58.422 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-10 22:42:58.422 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-10 22:42:58.422 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-10 22:42:58.422 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-10 22:42:58.422 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-10 22:42:58.438 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-10 23:04:22.888 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 23:04:22.900 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 23:04:23.083 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-10 23:04:23.084 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-10 23:04:23.085 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-10 23:04:23.085 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-10 23:04:23.085 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-10 23:04:23.301 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-10 23:05:02.959 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 23:05:02.972 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 23:05:03.181 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-10 23:05:03.182 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-10 23:05:03.183 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-10 23:05:03.183 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-10 23:05:03.184 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-10 23:05:03.380 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-10 23:13:08.119 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 23:13:08.130 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 23:13:08.343 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-10 23:13:08.344 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-10 23:13:08.345 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-10 23:13:08.345 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-10 23:13:08.345 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-10 23:13:08.548 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-10 23:18:40.940 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 23:18:40.953 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 23:18:41.181 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-10 23:18:41.182 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-10 23:18:41.182 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-10 23:18:41.183 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-10 23:18:41.183 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-10 23:18:41.395 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-10 23:29:42.261 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 23:29:42.268 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 23:29:42.407 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-10 23:29:42.407 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-10 23:29:42.408 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-10 23:29:42.408 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-10 23:29:42.408 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-10 23:29:42.423 [main] INFO  com.comrench.GenerateOutputFile - Report generation started
+2018-02-10 23:29:42.548 [main] INFO  com.comrench.GenerateOutputFile - Report generated successfully.
+2018-02-10 23:29:42.549 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-10 23:40:29.467 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 23:40:29.475 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 23:40:29.617 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-10 23:40:29.618 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-10 23:40:29.618 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-10 23:40:29.619 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-10 23:40:29.619 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-10 23:40:29.631 [main] ERROR com.comrench.ProcessInputRecord - Validation failed
+2018-02-10 23:40:29.639 [main] ERROR com.comrench.ProcessInputRecord - Validation failed
+2018-02-10 23:40:29.640 [main] ERROR com.comrench.ProcessInputRecord - Validation failed
+2018-02-10 23:40:29.641 [main] ERROR com.comrench.ProcessInputRecord - Validation failed
+2018-02-10 23:40:29.643 [main] ERROR com.comrench.ProcessInputRecord - Validation failed
+2018-02-10 23:40:29.644 [main] ERROR com.comrench.ProcessInputRecord - Validation failed
+2018-02-10 23:40:29.645 [main] ERROR com.comrench.ProcessInputRecord - Validation failed
+2018-02-10 23:40:29.646 [main] ERROR com.comrench.ProcessInputRecord - Validation failed
+2018-02-10 23:40:29.651 [main] INFO  com.comrench.GenerateOutputFile - Report generation started
+2018-02-10 23:40:29.789 [main] INFO  com.comrench.GenerateOutputFile - Report generated successfully.
+2018-02-10 23:40:29.789 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-10 23:41:50.146 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 23:41:50.154 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 23:41:50.282 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-10 23:41:50.282 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-10 23:41:50.282 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-10 23:41:50.283 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-10 23:41:50.283 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-10 23:41:50.291 [main] ERROR com.comrench.ProcessInputRecord - Validation failed
+2018-02-10 23:41:50.292 [main] ERROR com.comrench.ProcessInputRecord - Validation failed
+2018-02-10 23:41:50.292 [main] ERROR com.comrench.ProcessInputRecord - Validation failed
+2018-02-10 23:41:50.293 [main] ERROR com.comrench.ProcessInputRecord - Validation failed
+2018-02-10 23:41:50.293 [main] ERROR com.comrench.ProcessInputRecord - Validation failed
+2018-02-10 23:41:50.294 [main] ERROR com.comrench.ProcessInputRecord - Validation failed
+2018-02-10 23:41:50.294 [main] ERROR com.comrench.ProcessInputRecord - Validation failed
+2018-02-10 23:41:50.296 [main] ERROR com.comrench.ProcessInputRecord - Validation failed
+2018-02-10 23:41:50.300 [main] INFO  com.comrench.GenerateOutputFile - Report generation started
+2018-02-10 23:41:50.417 [main] INFO  com.comrench.GenerateOutputFile - Report generated successfully.
+2018-02-10 23:41:50.418 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-10 23:43:26.796 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 23:43:26.804 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 23:43:26.947 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-10 23:43:26.948 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-10 23:43:26.948 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-10 23:43:26.949 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-10 23:43:26.949 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-10 23:43:26.959 [main] ERROR com.comrench.ProcessInputRecord - Validation failed
+2018-02-10 23:43:26.959 [main] ERROR com.comrench.ProcessInputRecord - Skipping the record: ON	Waterloo	School1	K1000
+2018-02-10 23:43:26.960 [main] ERROR com.comrench.ProcessInputRecord - Validation failed
+2018-02-10 23:43:26.960 [main] ERROR com.comrench.ProcessInputRecord - Skipping the record: ON	Waterloo	School1	12000
+2018-02-10 23:43:26.960 [main] ERROR com.comrench.ProcessInputRecord - Validation failed
+2018-02-10 23:43:26.961 [main] ERROR com.comrench.ProcessInputRecord - Skipping the record: ON	Waterloo	School2	83000
+2018-02-10 23:43:26.961 [main] ERROR com.comrench.ProcessInputRecord - Validation failed
+2018-02-10 23:43:26.961 [main] ERROR com.comrench.ProcessInputRecord - Skipping the record: ON	Kitchener	School3	K0043
+2018-02-10 23:43:26.962 [main] ERROR com.comrench.ProcessInputRecord - Validation failed
+2018-02-10 23:43:26.962 [main] ERROR com.comrench.ProcessInputRecord - Skipping the record: ON	Kitchener	School3	10057
+2018-02-10 23:43:26.962 [main] ERROR com.comrench.ProcessInputRecord - Validation failed
+2018-02-10 23:43:26.963 [main] ERROR com.comrench.ProcessInputRecord - Skipping the record: ON	Kitchener	School3	20003
+2018-02-10 23:43:26.963 [main] ERROR com.comrench.ProcessInputRecord - Validation failed
+2018-02-10 23:43:26.964 [main] ERROR com.comrench.ProcessInputRecord - Skipping the record: ON	Kitchener	School3	30005
+2018-02-10 23:43:26.964 [main] ERROR com.comrench.ProcessInputRecord - Validation failed
+2018-02-10 23:43:26.964 [main] ERROR com.comrench.ProcessInputRecord - Skipping the record: ON	Kitchener	School3	40000
+2018-02-10 23:43:26.968 [main] INFO  com.comrench.GenerateOutputFile - Report generation started
+2018-02-10 23:43:27.093 [main] INFO  com.comrench.GenerateOutputFile - Report generated successfully.
+2018-02-10 23:43:27.093 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-10 23:44:05.313 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 23:44:05.320 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 23:44:05.447 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-10 23:44:05.449 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-10 23:44:05.449 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-10 23:44:05.449 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-10 23:44:05.449 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-10 23:44:05.469 [main] INFO  com.comrench.GenerateOutputFile - Report generation started
+2018-02-10 23:44:05.610 [main] INFO  com.comrench.GenerateOutputFile - Report generated successfully.
+2018-02-10 23:44:05.611 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-10 23:47:52.113 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 23:47:52.122 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 23:47:52.248 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-10 23:47:52.248 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-10 23:47:52.249 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-10 23:47:52.249 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-10 23:47:52.250 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-10 23:47:52.265 [main] ERROR com.comrench.ProcessInputRecord - Skipping the record: ON	Kitchener	School3
+2018-02-10 23:47:52.269 [main] INFO  com.comrench.GenerateOutputFile - Report generation started
+2018-02-10 23:47:52.387 [main] INFO  com.comrench.GenerateOutputFile - Report generated successfully.
+2018-02-10 23:47:52.389 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-10 23:57:33.789 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-10 23:57:33.797 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-10 23:57:33.918 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-10 23:57:33.919 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-10 23:57:33.919 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-10 23:57:33.919 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-10 23:57:33.920 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-10 23:57:33.936 [main] ERROR com.comrench.ProcessInputRecord - Column can't be empty.
+2018-02-10 23:57:33.937 [main] ERROR com.comrench.ProcessInputRecord - Skipping the record: ON	Kitchener	School3	     
+2018-02-10 23:57:33.941 [main] INFO  com.comrench.GenerateOutputFile - Report generation started
+2018-02-10 23:57:34.063 [main] INFO  com.comrench.GenerateOutputFile - Report generated successfully.
+2018-02-10 23:57:34.064 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-11 00:14:12.166 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-11 00:14:12.173 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-11 00:14:12.290 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-11 00:14:12.291 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 00:14:12.292 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-11 00:14:12.292 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-11 00:14:12.293 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-11 00:14:12.577 [main] ERROR com.comrench.ProcessInputRecord - Column can't be empty.
+2018-02-11 00:14:12.578 [main] ERROR com.comrench.ProcessInputRecord - Skipping the record: ON	Kitchener	School3	     
+2018-02-11 00:14:12.584 [main] INFO  com.comrench.GenerateOutputFile - Report generation started
+2018-02-11 00:14:12.595 [main] INFO  com.comrench.GenerateOutputFile - Report generated successfully.
+2018-02-11 00:14:12.596 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-11 00:14:37.052 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-11 00:14:37.059 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-11 00:14:37.178 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-11 00:14:37.178 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 00:14:37.179 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-11 00:14:37.179 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-11 00:14:37.179 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-11 00:14:37.193 [main] ERROR com.comrench.ProcessInputRecord - Column can't be empty.
+2018-02-11 00:14:37.194 [main] ERROR com.comrench.ProcessInputRecord - Skipping the record: ON	Kitchener	School3	     
+2018-02-11 00:14:37.200 [main] INFO  com.comrench.GenerateOutputFile - Report generation started
+2018-02-11 00:14:37.313 [main] INFO  com.comrench.GenerateOutputFile - Report generated successfully.
+2018-02-11 00:14:37.313 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-11 00:14:59.054 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-11 00:14:59.061 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-11 00:14:59.181 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-11 00:14:59.182 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 00:14:59.183 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-11 00:14:59.183 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-11 00:14:59.184 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-11 00:14:59.203 [main] INFO  com.comrench.GenerateOutputFile - Report generation started
+2018-02-11 00:14:59.317 [main] INFO  com.comrench.GenerateOutputFile - Report generated successfully.
+2018-02-11 00:14:59.318 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-11 00:15:24.946 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-11 00:15:24.954 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-11 00:15:25.071 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-11 00:15:25.071 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 00:15:25.072 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-11 00:15:25.072 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-11 00:15:25.072 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-11 00:15:25.204 [main] INFO  com.comrench.GenerateOutputFile - Report generation started
+2018-02-11 00:15:25.212 [main] INFO  com.comrench.GenerateOutputFile - Report generated successfully.
+2018-02-11 00:15:25.213 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-11 00:17:59.405 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-11 00:17:59.412 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-11 00:17:59.549 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-11 00:17:59.550 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 00:17:59.551 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-11 00:17:59.552 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-11 00:17:59.553 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-11 00:17:59.727 [main] INFO  com.comrench.GenerateOutputFile - Report generation started
+2018-02-11 00:17:59.734 [main] INFO  com.comrench.GenerateOutputFile - Report generated successfully.
+2018-02-11 00:17:59.734 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-11 00:18:11.509 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-11 00:18:11.518 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-11 00:18:11.672 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-11 00:18:11.673 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 00:18:11.673 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-11 00:18:11.673 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-11 00:18:11.674 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-11 00:18:11.692 [main] INFO  com.comrench.GenerateOutputFile - Report generation started
+2018-02-11 00:18:11.829 [main] INFO  com.comrench.GenerateOutputFile - Report generated successfully.
+2018-02-11 00:18:11.829 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-11 00:18:47.216 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-11 00:18:47.223 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-11 00:18:47.337 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-11 00:18:47.338 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 00:18:47.338 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-11 00:18:47.339 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-11 00:18:47.339 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-11 00:18:47.473 [main] INFO  com.comrench.GenerateOutputFile - Report generation started
+2018-02-11 00:18:47.480 [main] INFO  com.comrench.GenerateOutputFile - Report generated successfully.
+2018-02-11 00:18:47.481 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-11 00:19:27.238 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-11 00:19:27.245 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-11 00:19:27.367 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-11 00:19:27.368 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 00:19:27.368 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-11 00:19:27.370 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-11 00:19:27.371 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-11 00:19:27.515 [main] INFO  com.comrench.GenerateOutputFile - Report generation started
+2018-02-11 00:19:27.524 [main] INFO  com.comrench.GenerateOutputFile - Report generated successfully.
+2018-02-11 00:19:27.525 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-11 00:19:36.428 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-11 00:19:36.438 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-11 00:19:36.582 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-11 00:19:36.582 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 00:19:36.583 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-11 00:19:36.584 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-11 00:19:36.585 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-11 00:19:36.608 [main] INFO  com.comrench.GenerateOutputFile - Report generation started
+2018-02-11 00:19:36.767 [main] INFO  com.comrench.GenerateOutputFile - Report generated successfully.
+2018-02-11 00:19:36.767 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-11 00:20:06.746 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-11 00:20:06.753 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-11 00:20:06.930 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-11 00:20:06.931 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 00:20:06.931 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-11 00:20:06.932 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-11 00:20:06.932 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-11 00:20:07.067 [main] INFO  com.comrench.GenerateOutputFile - Report generation started
+2018-02-11 00:20:07.074 [main] INFO  com.comrench.GenerateOutputFile - Report generated successfully.
+2018-02-11 00:20:07.074 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-11 00:26:49.594 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-11 00:26:49.604 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-11 00:26:49.789 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-11 00:26:49.790 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 00:26:49.790 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-11 00:26:49.791 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-11 00:26:49.791 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-11 00:26:50.008 [main] INFO  com.comrench.GenerateOutputFile - Report generation started
+2018-02-11 00:26:50.020 [main] INFO  com.comrench.GenerateOutputFile - Report generated successfully.
+2018-02-11 00:26:50.020 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-11 00:32:26.463 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-11 00:32:26.472 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-11 00:32:26.603 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-11 00:32:26.604 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 00:32:26.604 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-11 00:32:26.605 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-11 00:32:26.606 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-11 00:32:26.820 [main] INFO  com.comrench.GenerateOutputFile - Report generation started
+2018-02-11 00:32:26.832 [main] INFO  com.comrench.GenerateOutputFile - Report generated successfully.
+2018-02-11 00:32:26.832 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-11 00:41:04.395 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-11 00:41:04.402 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-11 00:41:04.532 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-11 00:41:04.533 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 00:41:04.535 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-11 00:41:04.536 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-11 00:41:04.536 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-11 00:41:04.709 [main] INFO  com.comrench.GenerateOutputFile - Report generation started
+2018-02-11 00:41:04.719 [main] INFO  com.comrench.GenerateOutputFile - Report generated successfully.
+2018-02-11 00:41:04.719 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-11 00:45:27.086 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-11 00:45:27.094 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-11 00:45:27.214 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-11 00:45:27.214 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 00:45:27.215 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-11 00:45:27.215 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-11 00:45:27.216 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-11 00:45:27.345 [main] INFO  com.comrench.GenerateOutputFile - Report generation started
+2018-02-11 00:45:27.352 [main] INFO  com.comrench.GenerateOutputFile - Report generated successfully.
+2018-02-11 00:45:27.352 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-11 12:37:36.167 [main] INFO  com.comrench.Main - Starting the execution ...
+2018-02-11 12:37:36.167 [main] INFO  com.comrench.Main - Parsing the input XML file.
+2018-02-11 12:37:36.308 [main] INFO  com.comrench.Main - Input XML read successfully.
+2018-02-11 12:37:36.308 [main] DEBUG com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 12:37:36.308 [main] DEBUG com.comrench.Main - Output file: output//pwbe.txt
+2018-02-11 12:37:36.308 [main] DEBUG com.comrench.Main - Output file override status: false
+2018-02-11 12:37:36.308 [main] DEBUG com.comrench.Main - Configutation file read successfully.
+2018-02-11 12:37:36.433 [main] INFO  com.comrench.GenerateOutputFile - Report generation started
+2018-02-11 12:37:36.448 [main] INFO  com.comrench.GenerateOutputFile - Report generated successfully.
+2018-02-11 12:37:36.448 [main] INFO  com.comrench.Main - Terminating now.
+2018-02-11 13:11:42.441 [main] INFO  main.com.comrench.Main - Starting the execution ...
+2018-02-11 13:11:42.459 [main] ERROR main.com.comrench.Main - Input argument MISSING.
+2018-02-11 13:11:42.459 [main] ERROR main.com.comrench.Main - Usage   : java -Dlog4j.configurationFile=File:<log4j2XmlFile> -jar <jarFile> <inputXmlFile>
+2018-02-11 13:11:42.459 [main] ERROR main.com.comrench.Main - Example : java -Dlog4j.configurationFile=File:etc/log4j2.xml -jar pwbe.jar etc/input.xml
+2018-02-11 13:11:42.459 [main] INFO  main.com.comrench.Main - Terminating now.
+2018-02-11 13:12:15.470 [main] INFO  main.com.comrench.Main - Starting the execution ...
+2018-02-11 13:12:15.486 [main] INFO  main.com.comrench.Main - Parsing the input XML file.
+2018-02-11 13:12:15.580 [main] ERROR main.com.comrench.Main - Input Configuration file not found at location: etc/input.xml
+2018-02-11 13:13:43.814 [main] INFO  main.com.comrench.Main - Starting the execution ...
+2018-02-11 13:13:43.832 [main] INFO  main.com.comrench.Main - Parsing the input XML file.
+2018-02-11 13:13:43.957 [main] INFO  main.com.comrench.Main - Input XML read successfully.
+2018-02-11 13:13:43.957 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 13:13:43.957 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe.txt
+2018-02-11 13:13:43.957 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 13:13:43.957 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 13:13:44.161 [main] INFO  main.com.comrench.GenerateOutputFile - Report generation started
+2018-02-11 13:13:44.161 [main] INFO  main.com.comrench.GenerateOutputFile - Report generated successfully.
+2018-02-11 13:13:44.161 [main] INFO  main.com.comrench.Main - Terminating now.
+2018-02-11 15:43:58.870 [main] INFO  main.com.comrench.Main - Starting the execution ...
+2018-02-11 15:43:58.877 [main] INFO  main.com.comrench.Main - Parsing the input XML file.
+2018-02-11 15:43:58.992 [main] INFO  main.com.comrench.Main - Input XML read successfully.
+2018-02-11 15:43:58.993 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 15:43:58.994 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe.txt
+2018-02-11 15:43:59.002 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 15:43:59.003 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 15:43:59.202 [main] INFO  main.com.comrench.GenerateOutputFile - Report generation started
+2018-02-11 15:43:59.212 [main] INFO  main.com.comrench.GenerateOutputFile - Report generated successfully.
+2018-02-11 15:43:59.212 [main] INFO  main.com.comrench.Main - Terminating now.
+2018-02-11 15:44:25.654 [main] INFO  main.com.comrench.Main - Starting the execution ...
+2018-02-11 15:44:25.661 [main] ERROR main.com.comrench.Main - Input argument MISSING.
+2018-02-11 15:44:25.661 [main] ERROR main.com.comrench.Main - Usage   : java -Dlog4j.configurationFile=File:<log4j2XmlFile> -jar <jarFile> <inputXmlFile>
+2018-02-11 15:44:25.661 [main] ERROR main.com.comrench.Main - Example : java -Dlog4j.configurationFile=File:etc/log4j2.xml -jar pwbe.jar etc/input.xml
+2018-02-11 15:44:25.661 [main] DEBUG main.com.comrench.Main - Errors in execution.
+2018-02-11 15:44:56.262 [main] INFO  main.com.comrench.Main - Starting the execution ...
+2018-02-11 15:44:56.270 [main] ERROR main.com.comrench.Main - Input argument MISSING.
+2018-02-11 15:44:56.270 [main] ERROR main.com.comrench.Main - Usage   : java -Dlog4j.configurationFile=File:<log4j2XmlFile> -jar <jarFile> <inputXmlFile>
+2018-02-11 15:44:56.271 [main] ERROR main.com.comrench.Main - Example : java -Dlog4j.configurationFile=File:etc/log4j2.xml -jar pwbe.jar etc/input.xml
+2018-02-11 15:44:56.271 [main] DEBUG main.com.comrench.Main - Errors in execution.
+2018-02-11 15:45:15.087 [main] INFO  main.com.comrench.Main - Starting the execution ...
+2018-02-11 15:45:15.094 [main] ERROR main.com.comrench.Main - Input argument MISSING.
+2018-02-11 15:45:15.095 [main] ERROR main.com.comrench.Main - Usage   : java -Dlog4j.configurationFile=File:<log4j2XmlFile> -jar <jarFile> <inputXmlFile>
+2018-02-11 15:45:15.095 [main] ERROR main.com.comrench.Main - Example : java -Dlog4j.configurationFile=File:etc/log4j2.xml -jar pwbe.jar etc/input.xml
+2018-02-11 15:45:15.096 [main] DEBUG main.com.comrench.Main - Errors in execution.
+2018-02-11 16:48:25.205 [main] INFO  main.com.comrench.Main - Starting the execution ...
+2018-02-11 16:48:25.212 [main] ERROR main.com.comrench.Main - Input argument MISSING.
+2018-02-11 16:48:25.213 [main] ERROR main.com.comrench.Main - Usage   : java -Dlog4j.configurationFile=File:<log4j2XmlFile> -jar <jarFile> <inputXmlFile>
+2018-02-11 16:48:25.213 [main] ERROR main.com.comrench.Main - Example : java -Dlog4j.configurationFile=File:etc/log4j2.xml -jar pwbe.jar etc/input.xml
+2018-02-11 16:48:25.214 [main] DEBUG main.com.comrench.Main - Errors in execution.
+2018-02-11 16:49:14.174 [main] INFO  main.com.comrench.Main - Starting the execution ...
+2018-02-11 16:49:14.181 [main] INFO  main.com.comrench.Main - Parsing the input XML file.
+2018-02-11 16:49:14.304 [main] INFO  main.com.comrench.Main - Input XML read successfully.
+2018-02-11 16:49:14.304 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 16:49:14.305 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe
+2018-02-11 16:49:14.305 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 16:49:14.306 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 16:49:14.437 [main] INFO  main.com.comrench.GenerateOutputFile - Report generation started
+2018-02-11 16:49:14.446 [main] INFO  main.com.comrench.GenerateOutputFile - Report generated successfully.
+2018-02-11 16:49:14.446 [main] INFO  main.com.comrench.Main - Terminating now.
+2018-02-11 17:05:58.937 [main] INFO  main.com.comrench.Main - Starting the execution ...
+2018-02-11 17:05:58.945 [main] INFO  main.com.comrench.Main - Parsing the input XML file.
+2018-02-11 17:05:59.056 [main] INFO  main.com.comrench.Main - Input XML read successfully.
+2018-02-11 17:05:59.057 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 17:05:59.058 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe
+2018-02-11 17:05:59.061 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 17:05:59.061 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 17:05:59.241 [main] INFO  main.com.comrench.GenerateOutputFile - Report generation started
+2018-02-11 17:05:59.255 [main] INFO  main.com.comrench.GenerateOutputFile - Report generated successfully.
+2018-02-11 17:05:59.256 [main] INFO  main.com.comrench.Main - Terminating now.
+2018-02-11 17:06:48.238 [main] INFO  main.com.comrench.Main - Starting the execution ...
+2018-02-11 17:06:48.245 [main] INFO  main.com.comrench.Main - Parsing the input XML file.
+2018-02-11 17:06:48.506 [main] DEBUG main.com.comrench.Main - dateTime is 2018021117648
+2018-02-11 17:06:48.507 [main] INFO  main.com.comrench.Main - Input XML read successfully.
+2018-02-11 17:06:48.507 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 17:06:48.508 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe2018021117648.txt
+2018-02-11 17:06:48.508 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 17:06:48.508 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 17:06:48.536 [main] INFO  main.com.comrench.GenerateOutputFile - Report generation started
+2018-02-11 17:06:48.543 [main] INFO  main.com.comrench.GenerateOutputFile - Report generated successfully.
+2018-02-11 17:06:48.543 [main] INFO  main.com.comrench.Main - Terminating now.
+2018-02-11 17:07:12.270 [main] INFO  main.com.comrench.Main - Starting the execution ...
+2018-02-11 17:07:12.278 [main] INFO  main.com.comrench.Main - Parsing the input XML file.
+2018-02-11 17:07:12.560 [main] DEBUG main.com.comrench.Main - dateTime is 2018021117712
+2018-02-11 17:07:12.561 [main] INFO  main.com.comrench.Main - Input XML read successfully.
+2018-02-11 17:07:12.561 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 17:07:12.561 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_2018021117712.txt
+2018-02-11 17:07:12.561 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 17:07:12.562 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 17:07:12.592 [main] INFO  main.com.comrench.GenerateOutputFile - Report generation started
+2018-02-11 17:07:12.601 [main] INFO  main.com.comrench.GenerateOutputFile - Report generated successfully.
+2018-02-11 17:07:12.601 [main] INFO  main.com.comrench.Main - Terminating now.
+2018-02-11 17:08:12.251 [main] INFO  main.com.comrench.Main - Starting the execution ...
+2018-02-11 17:08:12.259 [main] INFO  main.com.comrench.Main - Parsing the input XML file.
+2018-02-11 17:08:12.539 [main] DEBUG main.com.comrench.Main - dateTime is 2018021117812
+2018-02-11 17:08:12.539 [main] INFO  main.com.comrench.Main - Input XML read successfully.
+2018-02-11 17:08:12.540 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 17:08:12.540 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_2018021117812.txt
+2018-02-11 17:08:12.540 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 17:08:12.540 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 17:08:12.571 [main] INFO  main.com.comrench.GenerateOutputFile - Report generation started
+2018-02-11 17:08:12.580 [main] INFO  main.com.comrench.GenerateOutputFile - Report generated successfully.
+2018-02-11 17:08:12.580 [main] INFO  main.com.comrench.Main - Terminating now.
+2018-02-11 17:08:26.908 [main] INFO  main.com.comrench.Main - Starting the execution ...
+2018-02-11 17:08:26.915 [main] INFO  main.com.comrench.Main - Parsing the input XML file.
+2018-02-11 17:08:27.165 [main] DEBUG main.com.comrench.Main - dateTime is 2018021117827
+2018-02-11 17:08:27.166 [main] INFO  main.com.comrench.Main - Input XML read successfully.
+2018-02-11 17:08:27.166 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 17:08:27.167 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_2018021117827.txt
+2018-02-11 17:08:27.168 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 17:08:27.168 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 17:08:27.197 [main] INFO  main.com.comrench.GenerateOutputFile - Report generation started
+2018-02-11 17:08:27.203 [main] INFO  main.com.comrench.GenerateOutputFile - Report generated successfully.
+2018-02-11 17:08:27.203 [main] INFO  main.com.comrench.Main - Terminating now.
+2018-02-11 17:08:30.811 [main] INFO  main.com.comrench.Main - Starting the execution ...
+2018-02-11 17:08:30.817 [main] INFO  main.com.comrench.Main - Parsing the input XML file.
+2018-02-11 17:08:31.070 [main] DEBUG main.com.comrench.Main - dateTime is 2018021117830
+2018-02-11 17:08:31.070 [main] INFO  main.com.comrench.Main - Input XML read successfully.
+2018-02-11 17:08:31.070 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 17:08:31.071 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_2018021117830.txt
+2018-02-11 17:08:31.071 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 17:08:31.071 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 17:08:31.105 [main] INFO  main.com.comrench.GenerateOutputFile - Report generation started
+2018-02-11 17:08:31.112 [main] INFO  main.com.comrench.GenerateOutputFile - Report generated successfully.
+2018-02-11 17:08:31.113 [main] INFO  main.com.comrench.Main - Terminating now.
+2018-02-11 17:08:48.782 [main] INFO  main.com.comrench.Main - Starting the execution ...
+2018-02-11 17:08:48.789 [main] INFO  main.com.comrench.Main - Parsing the input XML file.
+2018-02-11 17:08:49.052 [main] DEBUG main.com.comrench.Main - dateTime is 2018021117848
+2018-02-11 17:08:49.053 [main] INFO  main.com.comrench.Main - Input XML read successfully.
+2018-02-11 17:08:49.053 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 17:08:49.053 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_2018021117848.txt
+2018-02-11 17:08:49.054 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 17:08:49.054 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 17:08:49.081 [main] INFO  main.com.comrench.GenerateOutputFile - Report generation started
+2018-02-11 17:08:49.087 [main] INFO  main.com.comrench.GenerateOutputFile - Report generated successfully.
+2018-02-11 17:08:49.088 [main] INFO  main.com.comrench.Main - Terminating now.
+2018-02-11 17:09:19.593 [main] INFO  main.com.comrench.Main - Starting the execution ...
+2018-02-11 17:09:19.600 [main] INFO  main.com.comrench.Main - Parsing the input XML file.
+2018-02-11 17:09:19.851 [main] DEBUG main.com.comrench.Main - dateTime is 2018021117919
+2018-02-11 17:09:19.851 [main] INFO  main.com.comrench.Main - Input XML read successfully.
+2018-02-11 17:09:19.852 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 17:09:19.852 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_2018021117919.txt
+2018-02-11 17:09:19.852 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 17:09:19.853 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 17:09:19.880 [main] INFO  main.com.comrench.GenerateOutputFile - Report generation started
+2018-02-11 17:09:19.887 [main] INFO  main.com.comrench.GenerateOutputFile - Report generated successfully.
+2018-02-11 17:09:19.887 [main] INFO  main.com.comrench.Main - Terminating now.
+2018-02-11 17:40:45.917 [main] INFO  main.com.comrench.Main - Starting the execution ...
+2018-02-11 17:40:45.926 [main] INFO  main.com.comrench.Main - Parsing the input XML file.
+2018-02-11 17:40:46.378 [main] DEBUG main.com.comrench.Main - dateTime is 20180211174046
+2018-02-11 17:40:46.379 [main] INFO  main.com.comrench.Main - Input XML read successfully.
+2018-02-11 17:40:46.379 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 17:40:46.380 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_20180211174046.txt
+2018-02-11 17:40:46.380 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 17:40:46.381 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 17:40:46.438 [main] ERROR main.com.comrench.GenerateOutputFile - Error while writing in output//pwbe_20180211174046.txt
+2018-02-11 17:40:46.438 [main] INFO  main.com.comrench.Main - Terminating now.
+2018-02-11 17:41:16.502 [main] INFO  main.com.comrench.Main - Starting the execution ...
+2018-02-11 17:41:16.512 [main] INFO  main.com.comrench.Main - Parsing the input XML file.
+2018-02-11 17:41:16.890 [main] DEBUG main.com.comrench.Main - dateTime is 20180211174116
+2018-02-11 17:41:16.890 [main] INFO  main.com.comrench.Main - Input XML read successfully.
+2018-02-11 17:41:16.891 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 17:41:16.892 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_20180211174116.txt
+2018-02-11 17:41:16.893 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 17:41:16.894 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 17:41:16.957 [main] INFO  main.com.comrench.Main - Terminating now.
+2018-02-11 17:42:19.396 [main] INFO  main.com.comrench.Main - Starting the execution ...
+2018-02-11 17:42:19.403 [main] INFO  main.com.comrench.Main - Parsing the input XML file.
+2018-02-11 17:42:19.711 [main] DEBUG main.com.comrench.Main - dateTime is 20180211174219
+2018-02-11 17:42:19.712 [main] INFO  main.com.comrench.Main - Input XML read successfully.
+2018-02-11 17:42:19.712 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 17:42:19.712 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_20180211174219.txt
+2018-02-11 17:42:19.713 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 17:42:19.713 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 17:42:19.761 [main] INFO  main.com.comrench.Main - Terminating now.
+2018-02-11 17:59:12.808 [main] INFO  main.com.comrench.Main - Starting the execution ...
+2018-02-11 17:59:12.820 [main] INFO  main.com.comrench.Main - Parsing the input XML file.
+2018-02-11 17:59:13.180 [main] DEBUG main.com.comrench.Main - dateTime is 20180211175913
+2018-02-11 17:59:13.180 [main] INFO  main.com.comrench.Main - Input XML read successfully.
+2018-02-11 17:59:13.180 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 17:59:13.180 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_20180211175913.txt
+2018-02-11 17:59:13.184 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 17:59:13.184 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 17:59:13.228 [main] INFO  main.com.comrench.Main - Terminating now.
+2018-02-11 17:59:43.557 [main] INFO  main.com.comrench.Main - Starting the execution ...
+2018-02-11 17:59:43.568 [main] INFO  main.com.comrench.Main - Parsing the input XML file.
+2018-02-11 17:59:43.893 [main] DEBUG main.com.comrench.Main - dateTime is 20180211175943
+2018-02-11 17:59:43.893 [main] INFO  main.com.comrench.Main - Input XML read successfully.
+2018-02-11 17:59:43.893 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 17:59:43.893 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_20180211175943.txt
+2018-02-11 17:59:43.893 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 17:59:43.893 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 17:59:43.949 [main] INFO  main.com.comrench.Main - Terminating now.
+2018-02-11 18:57:48.782 [main] INFO  main.com.comrench.Main - Starting the execution ...
+2018-02-11 18:57:48.790 [main] INFO  main.com.comrench.Main - Parsing the input XML file.
+2018-02-11 18:57:49.086 [main] DEBUG main.com.comrench.Main - dateTime is 20180211185748
+2018-02-11 18:57:49.086 [main] INFO  main.com.comrench.Main - Input XML read successfully.
+2018-02-11 18:57:49.086 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 18:57:49.086 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_20180211185748.txt
+2018-02-11 18:57:49.086 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 18:57:49.086 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 18:57:49.130 [main] INFO  main.com.comrench.Main - Terminating now.
+2018-02-11 19:08:03.540 [main] INFO  main.com.comrench.Main - Starting the execution ...
+2018-02-11 19:08:03.550 [main] INFO  main.com.comrench.Main - Parsing the input XML file.
+2018-02-11 19:08:03.974 [main] DEBUG main.com.comrench.Main - dateTime is 201802111983
+2018-02-11 19:08:03.978 [main] INFO  main.com.comrench.Main - Input XML read successfully.
+2018-02-11 19:08:03.978 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 19:08:03.978 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_201802111983.txt
+2018-02-11 19:08:03.978 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 19:08:03.978 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 19:08:04.046 [main] INFO  main.com.comrench.Main - Terminating now.
+2018-02-11 19:14:27.263 [main] INFO  main.com.comrench.Main - Starting the execution ...
+2018-02-11 19:14:27.274 [main] INFO  main.com.comrench.Main - Parsing the input XML file.
+2018-02-11 19:14:27.598 [main] DEBUG main.com.comrench.Main - dateTime is 20180211191427
+2018-02-11 19:14:27.598 [main] INFO  main.com.comrench.Main - Input XML read successfully.
+2018-02-11 19:14:27.598 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 19:14:27.598 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_20180211191427.txt
+2018-02-11 19:14:27.598 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 19:14:27.598 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 19:14:27.634 [main] ERROR main.com.comrench.ProcessInputRecord - Column count doesn't match the expected. Expected: 4 Found: 2
+2018-02-11 19:14:27.634 [main] ERROR main.com.comrench.ProcessInputRecord - Skipping the record: ON	Kitchener 10057
+2018-02-11 19:14:27.650 [main] INFO  main.com.comrench.Main - Terminating now.
+2018-02-11 21:14:22.168 [main] INFO  main.com.comrench.Main - Starting the execution ...
+2018-02-11 21:14:22.183 [main] INFO  main.com.comrench.Main - Parsing the input XML file.
+2018-02-11 21:14:23.136 [main] DEBUG main.com.comrench.Main - dateTime is 20180211211422
+2018-02-11 21:14:23.136 [main] INFO  main.com.comrench.Main - Input XML read successfully.
+2018-02-11 21:14:23.137 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 21:14:23.137 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_20180211211422.txt
+2018-02-11 21:14:23.138 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 21:14:23.139 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 21:14:23.214 [main] INFO  main.com.comrench.Main - Terminating now.
+2018-02-11 23:10:36.464 [main] INFO  main.com.comrench.Main - Info
+2018-02-11 23:10:36.480 [main] DEBUG main.com.comrench.Main - debug
+2018-02-11 23:10:36.485 [main] WARN  main.com.comrench.Main - warn
+2018-02-11 23:10:36.485 [main] ERROR main.com.comrench.Main - error
+2018-02-11 23:10:36.485 [main] FATAL main.com.comrench.Main - fatal
+2018-02-11 23:10:36.485 [main] INFO  main.com.comrench.Main - Starting the execution ...
+2018-02-11 23:10:36.486 [main] INFO  main.com.comrench.Main - Parsing the input XML file.
+2018-02-11 23:10:36.799 [main] DEBUG main.com.comrench.Main - dateTime is 20180211231036
+2018-02-11 23:10:36.799 [main] INFO  main.com.comrench.Main - Input XML read successfully.
+2018-02-11 23:10:36.799 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 23:10:36.799 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_20180211231036.txt
+2018-02-11 23:10:36.799 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 23:10:36.799 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 23:10:36.862 [main] INFO  main.com.comrench.Main - Terminating now.
+2018-02-11 23:11:17.618 [main] FATAL main.com.comrench.Main - fatal
+2018-02-11 23:11:17.638 [main] ERROR main.com.comrench.Main - error
+2018-02-11 23:11:17.638 [main] WARN  main.com.comrench.Main - warn
+2018-02-11 23:11:17.638 [main] INFO  main.com.comrench.Main - Info
+2018-02-11 23:11:17.638 [main] DEBUG main.com.comrench.Main - debug
+2018-02-11 23:11:17.638 [main] INFO  main.com.comrench.Main - Starting the execution ...
+2018-02-11 23:11:17.638 [main] INFO  main.com.comrench.Main - Parsing the input XML file.
+2018-02-11 23:11:17.904 [main] DEBUG main.com.comrench.Main - dateTime is 20180211231117
+2018-02-11 23:11:17.904 [main] INFO  main.com.comrench.Main - Input XML read successfully.
+2018-02-11 23:11:17.904 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 23:11:17.904 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_20180211231117.txt
+2018-02-11 23:11:17.904 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 23:11:17.904 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 23:11:17.935 [main] INFO  main.com.comrench.Main - Terminating now.
+2018-02-11 23:11:40.166 [main] FATAL main.com.comrench.Main - fatal
+2018-02-11 23:11:40.173 [main] ERROR main.com.comrench.Main - error
+2018-02-11 23:11:40.174 [main] WARN  main.com.comrench.Main - warn
+2018-02-11 23:11:40.174 [main] INFO  main.com.comrench.Main - Info
+2018-02-11 23:11:40.174 [main] DEBUG main.com.comrench.Main - debug
+2018-02-11 23:11:40.174 [main] INFO  main.com.comrench.Main - Starting the execution ...
+2018-02-11 23:11:40.174 [main] INFO  main.com.comrench.Main - Parsing the input XML file.
+2018-02-11 23:11:40.424 [main] DEBUG main.com.comrench.Main - dateTime is 20180211231140
+2018-02-11 23:11:40.424 [main] INFO  main.com.comrench.Main - Input XML read successfully.
+2018-02-11 23:11:40.424 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 23:11:40.424 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_20180211231140.txt
+2018-02-11 23:11:40.424 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 23:11:40.424 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 23:11:40.455 [main] INFO  main.com.comrench.Main - Terminating now.
+2018-02-11 23:13:32.856 [main] FATAL main.com.comrench.Main - fatal
+2018-02-11 23:13:32.874 [main] ERROR main.com.comrench.Main - error
+2018-02-11 23:13:32.874 [main] WARN  main.com.comrench.Main - warn
+2018-02-11 23:13:32.875 [main] INFO  main.com.comrench.Main - Info
+2018-02-11 23:13:32.880 [main] DEBUG main.com.comrench.Main - debug
+2018-02-11 23:13:32.881 [main] INFO  main.com.comrench.Main - Starting the execution ...
+2018-02-11 23:13:32.881 [main] INFO  main.com.comrench.Main - Parsing the input XML file.
+2018-02-11 23:13:33.432 [main] DEBUG main.com.comrench.Main - dateTime is 20180211231333
+2018-02-11 23:13:33.433 [main] INFO  main.com.comrench.Main - Input XML read successfully.
+2018-02-11 23:13:33.434 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 23:13:33.435 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_20180211231333.txt
+2018-02-11 23:13:33.435 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 23:13:33.436 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 23:13:33.501 [main] INFO  main.com.comrench.Main - Terminating now.
+2018-02-11 23:15:52.141 [main] FATAL main.com.comrench.Main - fatal
+2018-02-11 23:15:52.149 [main] ERROR main.com.comrench.Main - error
+2018-02-11 23:15:52.149 [main] WARN  main.com.comrench.Main - warn
+2018-02-11 23:15:52.149 [main] INFO  main.com.comrench.Main - Info
+2018-02-11 23:15:52.149 [main] DEBUG main.com.comrench.Main - debug
+2018-02-11 23:15:52.150 [main] INFO  main.com.comrench.Main - Starting the execution ...
+2018-02-11 23:15:52.150 [main] INFO  main.com.comrench.Main - Parsing the input XML file.
+2018-02-11 23:15:52.466 [main] DEBUG main.com.comrench.Main - dateTime is 20180211231552
+2018-02-11 23:15:52.466 [main] INFO  main.com.comrench.Main - Input XML read successfully.
+2018-02-11 23:15:52.466 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 23:15:52.466 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_20180211231552.txt
+2018-02-11 23:15:52.467 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 23:15:52.467 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 23:15:52.513 [main] INFO  main.com.comrench.Main - Terminating now.
+2018-02-11 23:16:37.348 [main] FATAL main.com.comrench.Main - fatal
+2018-02-11 23:16:37.357 [main] ERROR main.com.comrench.Main - error
+2018-02-11 23:16:37.358 [main] WARN  main.com.comrench.Main - warn
+2018-02-11 23:16:37.358 [main] INFO  main.com.comrench.Main - Info
+2018-02-11 23:16:37.359 [main] DEBUG main.com.comrench.Main - debug
+2018-02-11 23:16:37.359 [main] INFO  main.com.comrench.Main - Starting the execution ...
+2018-02-11 23:16:37.359 [main] INFO  main.com.comrench.Main - Parsing the input XML file.
+2018-02-11 23:16:37.747 [main] DEBUG main.com.comrench.Main - dateTime is 20180211231637
+2018-02-11 23:16:37.747 [main] INFO  main.com.comrench.Main - Input XML read successfully.
+2018-02-11 23:16:37.748 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 23:16:37.748 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_20180211231637.txt
+2018-02-11 23:16:37.748 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 23:16:37.749 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 23:16:37.891 [main] INFO  main.com.comrench.Main - Terminating now.
+2018-02-11 23:16:56.143 [main] FATAL main.com.comrench.Main - fatal
+2018-02-11 23:16:56.152 [main] ERROR main.com.comrench.Main - error
+2018-02-11 23:16:56.153 [main] WARN  main.com.comrench.Main - warn
+2018-02-11 23:16:56.153 [main] INFO  main.com.comrench.Main - Info
+2018-02-11 23:16:56.154 [main] DEBUG main.com.comrench.Main - debug
+2018-02-11 23:16:56.154 [main] INFO  main.com.comrench.Main - Starting the execution ...
+2018-02-11 23:16:56.154 [main] INFO  main.com.comrench.Main - Parsing the input XML file.
+2018-02-11 23:16:56.460 [main] DEBUG main.com.comrench.Main - dateTime is 20180211231656
+2018-02-11 23:16:56.460 [main] INFO  main.com.comrench.Main - Input XML read successfully.
+2018-02-11 23:16:56.461 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 23:16:56.461 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_20180211231656.txt
+2018-02-11 23:16:56.461 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 23:16:56.461 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 23:16:56.507 [main] INFO  main.com.comrench.Main - Terminating now.
+2018-02-11 23:17:26.125 [main] FATAL main.com.comrench.Main - fatal
+2018-02-11 23:17:26.125 [main] ERROR main.com.comrench.Main - error
+2018-02-11 23:17:26.125 [main] WARN  main.com.comrench.Main - warn
+2018-02-11 23:17:26.125 [main] INFO  main.com.comrench.Main - Info
+2018-02-11 23:17:26.125 [main] DEBUG main.com.comrench.Main - debug
+2018-02-11 23:17:26.125 [main] INFO  main.com.comrench.Main - Starting the execution ...
+2018-02-11 23:17:26.125 [main] INFO  main.com.comrench.Main - Parsing the input XML file.
+2018-02-11 23:17:26.391 [main] DEBUG main.com.comrench.Main - dateTime is 20180211231726
+2018-02-11 23:17:26.391 [main] INFO  main.com.comrench.Main - Input XML read successfully.
+2018-02-11 23:17:26.391 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 23:17:26.391 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_20180211231726.txt
+2018-02-11 23:17:26.391 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 23:17:26.391 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 23:17:26.422 [main] INFO  main.com.comrench.Main - Terminating now.
+2018-02-11 23:19:00.990 [main] FATAL main.com.comrench.Main - fatal
+2018-02-11 23:19:00.990 [main] ERROR main.com.comrench.Main - error
+2018-02-11 23:19:00.990 [main] WARN  main.com.comrench.Main - warn
+2018-02-11 23:19:00.990 [main] INFO  main.com.comrench.Main - Info
+2018-02-11 23:19:00.990 [main] DEBUG main.com.comrench.Main - debug
+2018-02-11 23:19:00.990 [main] INFO  main.com.comrench.Main - Starting the execution ...
+2018-02-11 23:19:00.990 [main] INFO  main.com.comrench.Main - Parsing the input XML file.
+2018-02-11 23:19:01.271 [main] DEBUG main.com.comrench.Main - dateTime is 2018021123191
+2018-02-11 23:19:01.271 [main] INFO  main.com.comrench.Main - Input XML read successfully.
+2018-02-11 23:19:01.271 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 23:19:01.271 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_2018021123191.txt
+2018-02-11 23:19:01.271 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 23:19:01.271 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 23:19:01.302 [main] INFO  main.com.comrench.Main - Terminating now.
+2018-02-11 23:22:46.526 [main] FATAL main.com.comrench.Main - fatal
+2018-02-11 23:22:46.526 [main] ERROR main.com.comrench.Main - error
+2018-02-11 23:22:46.526 [main] WARN  main.com.comrench.Main - warn
+2018-02-11 23:22:46.526 [main] INFO  main.com.comrench.Main - Info
+2018-02-11 23:22:46.526 [main] DEBUG main.com.comrench.Main - debug
+2018-02-11 23:22:46.526 [main] INFO  main.com.comrench.Main - Starting the execution ...
+2018-02-11 23:22:46.535 [main] INFO  main.com.comrench.Main - Parsing the input XML file.
+2018-02-11 23:22:46.802 [main] DEBUG main.com.comrench.Main - dateTime is 20180211232246
+2018-02-11 23:22:46.802 [main] INFO  main.com.comrench.Main - Input XML read successfully.
+2018-02-11 23:22:46.802 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 23:22:46.802 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_20180211232246.txt
+2018-02-11 23:22:46.802 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 23:22:46.802 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 23:22:46.834 [main] INFO  main.com.comrench.Main - Terminating now.
+2018-02-11 23:23:34.754 [main] FATAL main.com.comrench.Main - fatal
+2018-02-11 23:23:34.754 [main] ERROR main.com.comrench.Main - error
+2018-02-11 23:23:34.754 [main] WARN  main.com.comrench.Main - warn
+2018-02-11 23:23:34.754 [main] INFO  main.com.comrench.Main - Info
+2018-02-11 23:23:34.754 [main] DEBUG main.com.comrench.Main - debug
+2018-02-11 23:23:34.754 [main] INFO  main.com.comrench.Main - Starting the execution ...
+2018-02-11 23:23:34.764 [main] INFO  main.com.comrench.Main - Parsing the input XML file.
+2018-02-11 23:23:35.015 [main] DEBUG main.com.comrench.Main - dateTime is 20180211232334
+2018-02-11 23:23:35.015 [main] INFO  main.com.comrench.Main - Input XML read successfully.
+2018-02-11 23:23:35.015 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 23:23:35.015 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_20180211232334.txt
+2018-02-11 23:23:35.015 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 23:23:35.015 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 23:23:35.078 [main] INFO  main.com.comrench.Main - Terminating now.
+2018-02-11 23:25:19.725 [main] INFO  main.com.comrench.Main - Starting the execution ...
+2018-02-11 23:25:19.743 [main] INFO  main.com.comrench.Main - Parsing the input XML file.
+2018-02-11 23:25:19.994 [main] DEBUG main.com.comrench.Main - dateTime is 20180211232519
+2018-02-11 23:25:19.994 [main] INFO  main.com.comrench.Main - Input XML read successfully.
+2018-02-11 23:25:19.994 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 23:25:19.994 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_20180211232519.txt
+2018-02-11 23:25:19.994 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 23:25:19.994 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 23:25:20.009 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-11 23:25:20.025 [main] INFO  main.com.comrench.Main - Terminating now.
+2018-02-11 23:27:07.048 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-11 23:27:07.056 [main] INFO  main.com.comrench.Main - Parsing the input XML file.
+2018-02-11 23:27:07.380 [main] DEBUG main.com.comrench.Main - dateTime is 2018021123277
+2018-02-11 23:27:07.380 [main] INFO  main.com.comrench.Main - Input XML read successfully.
+2018-02-11 23:27:07.380 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 23:27:07.380 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_2018021123277.txt
+2018-02-11 23:27:07.380 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 23:27:07.380 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 23:27:07.427 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-11 23:27:07.427 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-11 23:27:48.560 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-11 23:27:48.576 [main] INFO  main.com.comrench.Main - Parsing the configuation XML file.
+2018-02-11 23:27:48.811 [main] DEBUG main.com.comrench.Main - dateTime is 20180211232748
+2018-02-11 23:27:48.811 [main] INFO  main.com.comrench.Main - Input XML read successfully.
+2018-02-11 23:27:48.811 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 23:27:48.811 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_20180211232748.txt
+2018-02-11 23:27:48.811 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 23:27:48.811 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 23:27:48.842 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-11 23:27:48.858 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-11 23:28:30.524 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-11 23:28:30.545 [main] INFO  main.com.comrench.Main - Loading the configuation XML file.
+2018-02-11 23:28:30.795 [main] DEBUG main.com.comrench.Main - dateTime is 20180211232830
+2018-02-11 23:28:30.795 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-11 23:28:30.795 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 23:28:30.795 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_20180211232830.txt
+2018-02-11 23:28:30.795 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 23:28:30.795 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 23:28:30.826 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-11 23:28:30.842 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-11 23:34:17.969 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-11 23:34:17.977 [main] INFO  main.com.comrench.Main - Loading the configuation XML file.
+2018-02-11 23:34:18.243 [main] DEBUG main.com.comrench.Main - dateTime is 20180211233418
+2018-02-11 23:34:18.243 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-11 23:34:18.243 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 23:34:18.243 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_20180211233418.txt
+2018-02-11 23:34:18.243 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 23:34:18.243 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 23:34:18.243 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-11 23:34:18.243 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-11 23:34:18.275 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-11 23:34:18.275 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-11 23:36:09.850 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-11 23:36:09.867 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-11 23:36:10.135 [main] DEBUG main.com.comrench.Main - dateTime is 20180211233610
+2018-02-11 23:36:10.135 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-11 23:36:10.135 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 23:36:10.135 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_20180211233610.txt
+2018-02-11 23:36:10.135 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 23:36:10.135 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 23:36:10.135 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-11 23:36:10.135 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-11 23:36:10.167 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-11 23:36:10.182 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-11 23:39:21.506 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-11 23:39:21.519 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-11 23:39:21.785 [main] DEBUG main.com.comrench.Main - dateTime is 20180211233921
+2018-02-11 23:39:21.785 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-11 23:39:21.785 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 23:39:21.785 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_20180211233921.txt
+2018-02-11 23:39:21.785 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 23:39:21.785 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 23:39:21.785 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-11 23:39:21.785 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-11 23:39:21.801 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-11 23:39:21.832 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-11 23:39:21.832 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-11 23:41:12.097 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-11 23:41:12.120 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-11 23:41:12.379 [main] DEBUG main.com.comrench.Main - dateTime is 20180211234112
+2018-02-11 23:41:12.379 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-11 23:41:12.379 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 23:41:12.379 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_20180211234112.txt
+2018-02-11 23:41:12.379 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 23:41:12.379 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 23:41:12.379 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-11 23:41:12.379 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-11 23:41:12.379 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-11 23:41:12.379 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	K1000
+2018-02-11 23:41:12.410 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	12000
+2018-02-11 23:41:12.410 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School2	83000
+2018-02-11 23:41:12.410 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	K0043
+2018-02-11 23:41:12.410 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	10057
+2018-02-11 23:41:12.410 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	20003
+2018-02-11 23:41:12.410 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	30005
+2018-02-11 23:41:12.410 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	40000
+2018-02-11 23:41:12.410 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-11 23:41:12.426 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-11 23:42:29.306 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-11 23:42:29.326 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-11 23:42:29.607 [main] DEBUG main.com.comrench.Main - dateTime is 20180211234229
+2018-02-11 23:42:29.607 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-11 23:42:29.607 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 23:42:29.607 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_20180211234229.txt
+2018-02-11 23:42:29.607 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 23:42:29.607 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 23:42:29.607 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-11 23:42:29.607 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-11 23:42:29.607 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-11 23:42:29.607 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	K1000
+2018-02-11 23:42:29.623 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	12000
+2018-02-11 23:42:29.639 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School2	83000
+2018-02-11 23:42:29.639 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	K0043
+2018-02-11 23:42:29.639 [main] ERROR main.com.comrench.ProcessInputRecord - Column count doesn't match the expected. Expected: 4 Found: 3
+2018-02-11 23:42:29.639 [main] ERROR main.com.comrench.ProcessInputRecord - Skipping the record: ON	Kitchener	10057
+2018-02-11 23:42:29.639 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	20003
+2018-02-11 23:42:29.639 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	30005
+2018-02-11 23:42:29.639 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	40000
+2018-02-11 23:42:29.639 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-11 23:42:29.654 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-11 23:43:40.037 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-11 23:43:40.057 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-11 23:43:40.360 [main] DEBUG main.com.comrench.Main - dateTime is 20180211234340
+2018-02-11 23:43:40.360 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-11 23:43:40.360 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 23:43:40.360 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_20180211234340.txt
+2018-02-11 23:43:40.360 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 23:43:40.360 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 23:43:40.360 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-11 23:43:40.360 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-11 23:43:40.360 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-11 23:43:40.360 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	K1000
+2018-02-11 23:43:40.391 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	12000
+2018-02-11 23:43:40.391 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School2	83000
+2018-02-11 23:43:40.391 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	K0043
+2018-02-11 23:43:40.391 [main] ERROR main.com.comrench.ProcessInputRecord - Column count doesn't match the expected. Expected: 4 Found: 3
+2018-02-11 23:43:40.391 [main] INFO  main.com.comrench.ProcessInputRecord - Skipping the record: ON	Kitchener	10057
+2018-02-11 23:43:40.391 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	20003
+2018-02-11 23:43:40.391 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	30005
+2018-02-11 23:43:40.391 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	40000
+2018-02-11 23:43:40.391 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-11 23:43:40.407 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-11 23:43:58.511 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-11 23:43:58.520 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-11 23:43:58.762 [main] DEBUG main.com.comrench.Main - dateTime is 20180211234358
+2018-02-11 23:43:58.762 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-11 23:43:58.778 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 23:43:58.778 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_20180211234358.txt
+2018-02-11 23:43:58.778 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 23:43:58.778 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 23:43:58.778 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-11 23:43:58.778 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-11 23:43:58.778 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-11 23:43:58.778 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	K1000
+2018-02-11 23:43:58.793 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	12000
+2018-02-11 23:43:58.793 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School2	83000
+2018-02-11 23:43:58.793 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	K0043
+2018-02-11 23:43:58.793 [main] ERROR main.com.comrench.ProcessInputRecord - Column count doesn't match the expected. Expected: 4 Found: 3
+2018-02-11 23:43:58.793 [main] INFO  main.com.comrench.ProcessInputRecord - Skipping invalid record: ON	Kitchener	10057
+2018-02-11 23:43:58.793 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	20003
+2018-02-11 23:43:58.793 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	30005
+2018-02-11 23:43:58.793 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	40000
+2018-02-11 23:43:58.793 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-11 23:43:58.809 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-11 23:45:08.320 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-11 23:45:08.340 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-11 23:45:08.592 [main] DEBUG main.com.comrench.Main - dateTime is 2018021123458
+2018-02-11 23:45:08.592 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-11 23:45:08.593 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 23:45:08.593 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_2018021123458.txt
+2018-02-11 23:45:08.593 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 23:45:08.593 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 23:45:08.594 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-11 23:45:08.596 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-11 23:45:08.601 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-11 23:45:08.601 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	K1000
+2018-02-11 23:45:08.617 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	12000
+2018-02-11 23:45:08.617 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School2	83000
+2018-02-11 23:45:08.617 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	K0043
+2018-02-11 23:45:08.617 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	10057
+2018-02-11 23:45:08.617 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	20003
+2018-02-11 23:45:08.617 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	30005
+2018-02-11 23:45:08.632 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	40000
+2018-02-11 23:45:08.632 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-11 23:45:08.648 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-11 23:59:54.540 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-11 23:59:54.540 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-11 23:59:54.868 [main] DEBUG main.com.comrench.Main - dateTime is 20180211235954
+2018-02-11 23:59:54.868 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-11 23:59:54.868 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-11 23:59:54.868 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_20180211235954.txt
+2018-02-11 23:59:54.868 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-11 23:59:54.868 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-11 23:59:54.868 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-11 23:59:54.868 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-11 23:59:54.868 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-11 23:59:54.884 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	K1000
+2018-02-11 23:59:54.899 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	12000
+2018-02-11 23:59:54.899 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School2	83000
+2018-02-11 23:59:54.899 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	K0043
+2018-02-11 23:59:54.899 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	10057
+2018-02-11 23:59:54.899 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	20003
+2018-02-11 23:59:54.899 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	30005
+2018-02-11 23:59:54.899 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	40000
+2018-02-11 23:59:54.899 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-11 23:59:54.915 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-12 00:00:52.259 [main] ERROR main.com.comrench.Main - error
+2018-02-12 00:00:52.274 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-12 00:00:52.274 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-12 00:00:52.530 [main] DEBUG main.com.comrench.Main - dateTime is 201802120052
+2018-02-12 00:00:52.530 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-12 00:00:52.530 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-12 00:00:52.530 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_201802120052.txt
+2018-02-12 00:00:52.530 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-12 00:00:52.530 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-12 00:00:52.530 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-12 00:00:52.530 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-12 00:00:52.530 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-12 00:00:52.530 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	K1000
+2018-02-12 00:00:52.562 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	12000
+2018-02-12 00:00:52.562 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School2	83000
+2018-02-12 00:00:52.562 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	K0043
+2018-02-12 00:00:52.562 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	10057
+2018-02-12 00:00:52.562 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	20003
+2018-02-12 00:00:52.562 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	30005
+2018-02-12 00:00:52.562 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	40000
+2018-02-12 00:00:52.562 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-12 00:00:52.562 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-12 00:01:35.739 [main] ERROR main.com.comrench.Main - error
+2018-02-12 00:01:35.754 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-12 00:01:35.754 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-12 00:01:35.992 [main] DEBUG main.com.comrench.Main - dateTime is 201802120135
+2018-02-12 00:01:35.992 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-12 00:01:35.992 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-12 00:01:35.992 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_201802120135.txt
+2018-02-12 00:01:35.992 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-12 00:01:35.992 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-12 00:01:35.992 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-12 00:01:36.007 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-12 00:01:36.007 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-12 00:01:36.007 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	K1000
+2018-02-12 00:01:36.023 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	12000
+2018-02-12 00:01:36.023 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School2	83000
+2018-02-12 00:01:36.023 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	K0043
+2018-02-12 00:01:36.023 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	10057
+2018-02-12 00:01:36.023 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	20003
+2018-02-12 00:01:36.023 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	30005
+2018-02-12 00:01:36.023 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	40000
+2018-02-12 00:01:36.023 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-12 00:01:36.038 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-12 00:01:53.535 [main] ERROR main.com.comrench.Main - error
+2018-02-12 00:01:53.551 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-12 00:01:53.551 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-12 00:01:53.806 [main] DEBUG main.com.comrench.Main - dateTime is 201802120153
+2018-02-12 00:01:53.806 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-12 00:01:53.806 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-12 00:01:53.806 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_201802120153.txt
+2018-02-12 00:01:53.806 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-12 00:01:53.806 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-12 00:01:53.806 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-12 00:01:53.806 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-12 00:01:53.806 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-12 00:01:53.806 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	K1000
+2018-02-12 00:01:53.822 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	12000
+2018-02-12 00:01:53.822 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School2	83000
+2018-02-12 00:01:53.822 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	K0043
+2018-02-12 00:01:53.822 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	10057
+2018-02-12 00:01:53.822 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	20003
+2018-02-12 00:01:53.822 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	30005
+2018-02-12 00:01:53.822 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	40000
+2018-02-12 00:01:53.822 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-12 00:01:53.837 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-12 00:02:35.268 [main] ERROR main.com.comrench.Main - error
+2018-02-12 00:02:35.283 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-12 00:02:35.283 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-12 00:02:35.538 [main] DEBUG main.com.comrench.Main - dateTime is 201802120235
+2018-02-12 00:02:35.538 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-12 00:02:35.538 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-12 00:02:35.538 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_201802120235.txt
+2018-02-12 00:02:35.538 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-12 00:02:35.538 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-12 00:02:35.538 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-12 00:02:35.538 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-12 00:02:35.538 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-12 00:02:35.538 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	K1000
+2018-02-12 00:02:35.553 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	12000
+2018-02-12 00:02:35.553 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School2	83000
+2018-02-12 00:02:35.553 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	K0043
+2018-02-12 00:02:35.569 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	10057
+2018-02-12 00:02:35.569 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	20003
+2018-02-12 00:02:35.569 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	30005
+2018-02-12 00:02:35.569 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	40000
+2018-02-12 00:02:35.569 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-12 00:02:35.569 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-12 00:03:05.552 [main] ERROR main.com.comrench.Main - error
+2018-02-12 00:03:05.552 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-12 00:03:05.552 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-12 00:03:05.802 [main] DEBUG main.com.comrench.Main - dateTime is 20180212035
+2018-02-12 00:03:05.802 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-12 00:03:05.802 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-12 00:03:05.802 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_20180212035.txt
+2018-02-12 00:03:05.802 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-12 00:03:05.802 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-12 00:03:05.802 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-12 00:03:05.802 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-12 00:03:05.802 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-12 00:03:05.802 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	K1000
+2018-02-12 00:03:05.817 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	12000
+2018-02-12 00:03:05.817 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School2	83000
+2018-02-12 00:03:05.817 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	K0043
+2018-02-12 00:03:05.817 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	10057
+2018-02-12 00:03:05.817 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	20003
+2018-02-12 00:03:05.817 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	30005
+2018-02-12 00:03:05.817 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	40000
+2018-02-12 00:03:05.833 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-12 00:03:05.833 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-12 00:03:24.513 [main] ERROR main.com.comrench.Main - error
+2018-02-12 00:03:24.528 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-12 00:03:24.528 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-12 00:03:24.778 [main] DEBUG main.com.comrench.Main - dateTime is 201802120324
+2018-02-12 00:03:24.778 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-12 00:03:24.778 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-12 00:03:24.778 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_201802120324.txt
+2018-02-12 00:03:24.778 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-12 00:03:24.778 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-12 00:03:24.778 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-12 00:03:24.778 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-12 00:03:24.778 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-12 00:03:24.794 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	K1000
+2018-02-12 00:03:24.810 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	12000
+2018-02-12 00:03:24.810 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School2	83000
+2018-02-12 00:03:24.810 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	K0043
+2018-02-12 00:03:24.810 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	10057
+2018-02-12 00:03:24.810 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	20003
+2018-02-12 00:03:24.810 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	30005
+2018-02-12 00:03:24.810 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	40000
+2018-02-12 00:03:24.810 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-12 00:03:24.810 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-12 00:04:24.921 [main] ERROR main.com.comrench.Main - error
+2018-02-12 00:04:24.921 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-12 00:04:24.921 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-12 00:04:25.182 [main] DEBUG main.com.comrench.Main - dateTime is 201802120425
+2018-02-12 00:04:25.182 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-12 00:04:25.182 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-12 00:04:25.182 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_201802120425.txt
+2018-02-12 00:04:25.182 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-12 00:04:25.182 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-12 00:04:25.182 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-12 00:04:25.182 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-12 00:04:25.182 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-12 00:04:25.198 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	K1000
+2018-02-12 00:04:25.213 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	12000
+2018-02-12 00:04:25.213 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School2	83000
+2018-02-12 00:04:25.213 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	K0043
+2018-02-12 00:04:25.213 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	10057
+2018-02-12 00:04:25.213 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	20003
+2018-02-12 00:04:25.213 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	30005
+2018-02-12 00:04:25.213 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	40000
+2018-02-12 00:04:25.213 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-12 00:04:25.229 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-12 00:05:51.850 [main] ERROR main.com.comrench.Main - error
+2018-02-12 00:05:51.850 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-12 00:05:51.850 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-12 00:05:52.100 [main] DEBUG main.com.comrench.Main - dateTime is 201802120551
+2018-02-12 00:05:52.100 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-12 00:05:52.100 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-12 00:05:52.100 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_201802120551.txt
+2018-02-12 00:05:52.100 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-12 00:05:52.100 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-12 00:05:52.100 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-12 00:05:52.100 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-12 00:05:52.100 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-12 00:05:52.100 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	K1000
+2018-02-12 00:05:52.115 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	12000
+2018-02-12 00:05:52.131 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School2	83000
+2018-02-12 00:05:52.131 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	K0043
+2018-02-12 00:05:52.131 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	10057
+2018-02-12 00:05:52.131 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	20003
+2018-02-12 00:05:52.131 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	30005
+2018-02-12 00:05:52.131 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	40000
+2018-02-12 00:05:52.131 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-12 00:05:52.131 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-12 00:07:54.477 [main] ERROR main.com.comrench.Main - error
+2018-02-12 00:07:54.493 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-12 00:07:54.493 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-12 00:07:54.725 [main] DEBUG main.com.comrench.Main - dateTime is 201802120754
+2018-02-12 00:07:54.725 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-12 00:07:54.725 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-12 00:07:54.725 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_201802120754.txt
+2018-02-12 00:07:54.725 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-12 00:07:54.725 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-12 00:07:54.725 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-12 00:07:54.741 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-12 00:07:54.741 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-12 00:07:54.741 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	K1000
+2018-02-12 00:07:54.756 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	12000
+2018-02-12 00:07:54.756 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School2	83000
+2018-02-12 00:07:54.756 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	K0043
+2018-02-12 00:07:54.756 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	10057
+2018-02-12 00:07:54.756 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	20003
+2018-02-12 00:07:54.756 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	30005
+2018-02-12 00:07:54.756 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	40000
+2018-02-12 00:07:54.756 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-12 00:07:54.777 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-12 00:08:06.830 [main] ERROR main.com.comrench.Main - error
+2018-02-12 00:08:06.830 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-12 00:08:06.830 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-12 00:08:07.312 [main] DEBUG main.com.comrench.Main - dateTime is 20180212087
+2018-02-12 00:08:07.312 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-12 00:08:07.312 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-12 00:08:07.312 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_20180212087.txt
+2018-02-12 00:08:07.312 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-12 00:08:07.312 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-12 00:08:07.312 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-12 00:08:07.312 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-12 00:08:07.328 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-12 00:08:07.328 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	K1000
+2018-02-12 00:08:07.344 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	12000
+2018-02-12 00:08:07.344 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School2	83000
+2018-02-12 00:08:07.344 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	K0043
+2018-02-12 00:08:07.344 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	10057
+2018-02-12 00:08:07.344 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	20003
+2018-02-12 00:08:07.344 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	30005
+2018-02-12 00:08:07.344 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	40000
+2018-02-12 00:08:07.344 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-12 00:08:07.359 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-12 00:13:29.944 [main] ERROR main.com.comrench.Main - error
+2018-02-12 00:13:29.951 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-12 00:13:29.952 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-12 00:13:30.216 [main] DEBUG main.com.comrench.Main - dateTime is 2018021201330
+2018-02-12 00:13:30.216 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-12 00:13:30.216 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-12 00:13:30.216 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_2018021201330.txt
+2018-02-12 00:13:30.216 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-12 00:13:30.217 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-12 00:13:30.217 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-12 00:13:30.219 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-12 00:13:30.224 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-12 00:13:30.225 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	K1000
+2018-02-12 00:13:30.243 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	12000
+2018-02-12 00:13:30.243 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School2	83000
+2018-02-12 00:13:30.243 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	K0043
+2018-02-12 00:13:30.244 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	10057
+2018-02-12 00:13:30.244 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	20003
+2018-02-12 00:13:30.244 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	30005
+2018-02-12 00:13:30.244 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	40000
+2018-02-12 00:13:30.247 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-12 00:13:30.256 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-12 00:13:52.836 [main] ERROR main.com.comrench.Main - error
+2018-02-12 00:13:52.843 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-12 00:13:52.843 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-12 00:13:53.107 [main] DEBUG main.com.comrench.Main - dateTime is 2018021201352
+2018-02-12 00:13:53.107 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-12 00:13:53.107 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-12 00:13:53.108 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_2018021201352.txt
+2018-02-12 00:13:53.108 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-12 00:13:53.108 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-12 00:13:53.108 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-12 00:13:53.111 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-12 00:13:53.116 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-12 00:13:53.117 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	K1000
+2018-02-12 00:13:53.135 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	12000
+2018-02-12 00:13:53.136 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School2	83000
+2018-02-12 00:13:53.136 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	K0043
+2018-02-12 00:13:53.136 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	10057
+2018-02-12 00:13:53.136 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	20003
+2018-02-12 00:13:53.137 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	30005
+2018-02-12 00:13:53.137 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	40000
+2018-02-12 00:13:53.140 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-12 00:13:53.149 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-12 00:16:31.490 [main] ERROR main.com.comrench.Main - error
+2018-02-12 00:16:31.496 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-12 00:16:31.497 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-12 00:16:31.750 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-12 00:16:31.753 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-12 00:16:31.757 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-12 00:16:31.759 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	K1000
+2018-02-12 00:16:31.777 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	12000
+2018-02-12 00:16:31.778 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School2	83000
+2018-02-12 00:16:31.778 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	K0043
+2018-02-12 00:16:31.778 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	10057
+2018-02-12 00:16:31.779 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	20003
+2018-02-12 00:16:31.779 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	30005
+2018-02-12 00:16:31.779 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	40000
+2018-02-12 00:16:31.782 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-12 00:16:31.791 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-12 00:18:04.682 [main] ERROR main.com.comrench.Main - error
+2018-02-12 00:18:04.688 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-12 00:18:04.689 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-12 00:18:04.955 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-12 00:18:04.957 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-12 00:18:04.962 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-12 00:18:04.963 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	K1000
+2018-02-12 00:18:04.983 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	12000
+2018-02-12 00:18:04.983 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School2	83000
+2018-02-12 00:18:04.983 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	K0043
+2018-02-12 00:18:04.984 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	10057
+2018-02-12 00:18:04.984 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	20003
+2018-02-12 00:18:04.984 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	30005
+2018-02-12 00:18:04.985 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	40000
+2018-02-12 00:18:04.987 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-12 00:18:04.998 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-12 00:18:52.173 [main] ERROR main.com.comrench.Main - error
+2018-02-12 00:18:52.179 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-12 00:18:52.180 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-12 00:18:52.433 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-12 00:18:52.435 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-12 00:18:52.440 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-12 00:18:52.441 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	K1000
+2018-02-12 00:18:52.458 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	12000
+2018-02-12 00:18:52.458 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School2	83000
+2018-02-12 00:18:52.459 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	K0043
+2018-02-12 00:18:52.460 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	10057
+2018-02-12 00:18:52.460 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	20003
+2018-02-12 00:18:52.461 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	30005
+2018-02-12 00:18:52.461 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	40000
+2018-02-12 00:18:52.464 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-12 00:18:52.474 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-12 00:19:42.494 [main] ERROR main.com.comrench.Main - error
+2018-02-12 00:20:16.100 [main] ERROR main.com.comrench.Main - error
+2018-02-12 00:20:53.754 [main] ERROR main.com.comrench.Main - error
+2018-02-12 00:20:53.761 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-12 00:20:53.761 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-12 00:20:54.017 [main] DEBUG main.com.comrench.Main - dateTime is 2018021202053
+2018-02-12 00:20:54.018 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-12 00:20:54.018 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-12 00:20:54.018 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_2018021202053.txt
+2018-02-12 00:20:54.018 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-12 00:20:54.019 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-12 00:20:54.019 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-12 00:20:54.021 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-12 00:20:54.027 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-12 00:20:54.028 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	K1000
+2018-02-12 00:20:54.047 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	12000
+2018-02-12 00:20:54.048 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School2	83000
+2018-02-12 00:20:54.048 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	K0043
+2018-02-12 00:20:54.049 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	10057
+2018-02-12 00:20:54.049 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	20003
+2018-02-12 00:20:54.049 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	30005
+2018-02-12 00:20:54.050 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	40000
+2018-02-12 00:20:54.053 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-12 00:20:54.062 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-12 00:21:37.488 [main] ERROR main.com.comrench.Main - error
+2018-02-12 00:28:29.847 [main] ERROR main.com.comrench.Main - error
+2018-02-12 00:28:29.854 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-12 00:28:29.854 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-12 00:28:30.110 [main] DEBUG main.com.comrench.Main - dateTime is 2018021202829
+2018-02-12 00:28:30.111 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-12 00:28:30.111 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-12 00:28:30.111 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_2018021202829.txt
+2018-02-12 00:28:30.111 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-12 00:28:30.111 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-12 00:28:30.112 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-12 00:28:30.114 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-12 00:28:30.119 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-12 00:28:30.121 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	K1000
+2018-02-12 00:28:30.139 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	12000
+2018-02-12 00:28:30.140 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School2	83000
+2018-02-12 00:28:30.140 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	K0043
+2018-02-12 00:28:30.140 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	10057
+2018-02-12 00:28:30.141 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	20003
+2018-02-12 00:28:30.141 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	30005
+2018-02-12 00:28:30.141 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	40000
+2018-02-12 00:28:30.145 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-12 00:28:30.157 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-12 00:30:50.771 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-12 00:30:50.777 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-12 00:30:51.037 [main] DEBUG main.com.comrench.Main - dateTime is 2018021203050
+2018-02-12 00:30:51.038 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-12 00:30:51.038 [main] DEBUG main.com.comrench.Main - Input file: input//invalidStats.txt
+2018-02-12 00:30:51.038 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_2018021203050.txt
+2018-02-12 00:30:51.039 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-12 00:30:51.039 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-12 00:30:51.039 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-12 00:30:51.041 [main] INFO  main.com.comrench.Manage - Input file name: input//invalidStats.txt
+2018-02-12 00:30:51.046 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-12 00:30:51.055 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	K1000
+2018-02-12 00:30:51.074 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	12000
+2018-02-12 00:30:51.074 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School2	83000
+2018-02-12 00:30:51.075 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	K0043
+2018-02-12 00:30:51.075 [main] ERROR main.com.comrench.ProcessInputRecord - Column count doesn't match the expected. Expected: 4 Found: 2
+2018-02-12 00:30:51.075 [main] INFO  main.com.comrench.ProcessInputRecord - Skipping invalid record: ON	Kitchener 10057
+2018-02-12 00:30:51.075 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	20003
+2018-02-12 00:30:51.076 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	30005
+2018-02-12 00:30:51.076 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	40000
+2018-02-12 00:30:51.079 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-12 00:30:51.094 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-12 00:32:49.561 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-12 00:32:49.568 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-12 00:32:49.831 [main] DEBUG main.com.comrench.Main - dateTime is 2018021203249
+2018-02-12 00:32:49.831 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-12 00:32:49.833 [main] DEBUG main.com.comrench.Main - Input file: input//invalidStats.txt
+2018-02-12 00:32:49.833 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_2018021203249.txt
+2018-02-12 00:32:49.833 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-12 00:32:49.833 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-12 00:32:49.833 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-12 00:32:49.836 [main] INFO  main.com.comrench.Manage - Input file name: input//invalidStats.txt
+2018-02-12 00:32:49.841 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-12 00:32:49.842 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	K1000
+2018-02-12 00:32:49.862 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	12000
+2018-02-12 00:32:49.863 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School2	83000
+2018-02-12 00:32:49.863 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	K0043
+2018-02-12 00:32:49.863 [main] ERROR main.com.comrench.ProcessInputRecord - Column count doesn't match the expected. Expected: 4 Found: 2
+2018-02-12 00:32:49.863 [main] INFO  main.com.comrench.ProcessInputRecord - Skipping invalid record: ON	Kitchener 10057
+2018-02-12 00:32:49.864 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	20003
+2018-02-12 00:32:49.864 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	30005
+2018-02-12 00:32:49.864 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	40000
+2018-02-12 00:32:49.867 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-12 00:32:49.874 [main] INFO  main.com.comrench.GenerateOutputFile - School3              51             
+2018-02-12 00:32:49.875 [main] INFO  main.com.comrench.GenerateOutputFile - Kitchener            51             
+2018-02-12 00:32:49.875 [main] INFO  main.com.comrench.GenerateOutputFile - School2              3000           
+2018-02-12 00:32:49.875 [main] INFO  main.com.comrench.GenerateOutputFile - School1              3000           
+2018-02-12 00:32:49.875 [main] INFO  main.com.comrench.GenerateOutputFile - Waterloo             6000           
+2018-02-12 00:32:49.875 [main] INFO  main.com.comrench.GenerateOutputFile - ON                   6051           
+2018-02-12 00:32:49.878 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-12 00:33:56.742 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-12 00:33:56.748 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-12 00:33:57.003 [main] DEBUG main.com.comrench.Main - dateTime is 2018021203356
+2018-02-12 00:33:57.003 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-12 00:33:57.004 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-12 00:33:57.004 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_2018021203356.txt
+2018-02-12 00:33:57.004 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-12 00:33:57.004 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-12 00:33:57.005 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-12 00:33:57.007 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-12 00:33:57.012 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-12 00:33:57.013 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	K1000
+2018-02-12 00:33:57.031 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	12000
+2018-02-12 00:33:57.031 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School2	83000
+2018-02-12 00:33:57.032 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	K0043
+2018-02-12 00:33:57.032 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	10057
+2018-02-12 00:33:57.032 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	20003
+2018-02-12 00:33:57.032 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	30005
+2018-02-12 00:33:57.033 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	40000
+2018-02-12 00:33:57.035 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-12 00:33:57.042 [main] INFO  main.com.comrench.GenerateOutputFile - School3              108            
+2018-02-12 00:33:57.043 [main] INFO  main.com.comrench.GenerateOutputFile - Kitchener            108            
+2018-02-12 00:33:57.043 [main] INFO  main.com.comrench.GenerateOutputFile - School2              3000           
+2018-02-12 00:33:57.043 [main] INFO  main.com.comrench.GenerateOutputFile - School1              3000           
+2018-02-12 00:33:57.043 [main] INFO  main.com.comrench.GenerateOutputFile - Waterloo             6000           
+2018-02-12 00:33:57.044 [main] INFO  main.com.comrench.GenerateOutputFile - ON                   6108           
+2018-02-12 00:33:57.047 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-12 00:34:22.670 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-12 00:34:22.676 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-12 00:34:22.933 [main] DEBUG main.com.comrench.Main - dateTime is 2018021203422
+2018-02-12 00:34:22.933 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-12 00:34:22.934 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-12 00:34:22.934 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_2018021203422.txt
+2018-02-12 00:34:22.934 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-12 00:34:22.934 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-12 00:34:22.935 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-12 00:34:22.937 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-12 00:34:22.941 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-12 00:34:22.943 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	K1000
+2018-02-12 00:34:22.960 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	12000
+2018-02-12 00:34:22.961 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School2	83000
+2018-02-12 00:34:22.961 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	K0043
+2018-02-12 00:34:22.961 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	10057
+2018-02-12 00:34:22.962 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	20003
+2018-02-12 00:34:22.962 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	30005
+2018-02-12 00:34:22.962 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	40000
+2018-02-12 00:34:22.964 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-12 00:34:22.971 [main] INFO  main.com.comrench.GenerateOutputFile - School3              108            
+2018-02-12 00:34:22.971 [main] INFO  main.com.comrench.GenerateOutputFile - Kitchener            108            
+2018-02-12 00:34:22.972 [main] INFO  main.com.comrench.GenerateOutputFile - School2              3000           
+2018-02-12 00:34:22.972 [main] INFO  main.com.comrench.GenerateOutputFile - School1              3000           
+2018-02-12 00:34:22.972 [main] INFO  main.com.comrench.GenerateOutputFile - Waterloo             6000           
+2018-02-12 00:34:22.972 [main] INFO  main.com.comrench.GenerateOutputFile - ON                   6108           
+2018-02-12 00:34:22.975 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-12 00:34:43.321 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-12 00:34:43.328 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-12 00:34:43.583 [main] DEBUG main.com.comrench.Main - dateTime is 2018021203443
+2018-02-12 00:34:43.584 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-12 00:34:43.584 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-12 00:34:43.584 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_2018021203443.txt
+2018-02-12 00:34:43.585 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-12 00:34:43.585 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-12 00:34:43.585 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-12 00:34:43.587 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-12 00:34:43.592 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-12 00:34:43.594 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	K1000
+2018-02-12 00:34:43.611 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	12000
+2018-02-12 00:34:43.612 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School2	83000
+2018-02-12 00:34:43.612 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	K0043
+2018-02-12 00:34:43.612 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	10057
+2018-02-12 00:34:43.613 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	20003
+2018-02-12 00:34:43.613 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	30005
+2018-02-12 00:34:43.613 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	40000
+2018-02-12 00:34:43.615 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-12 00:34:43.620 [main] ERROR main.com.comrench.GenerateOutputFile - test
+2018-02-12 00:34:43.622 [main] INFO  main.com.comrench.GenerateOutputFile - School3              108            
+2018-02-12 00:34:43.623 [main] INFO  main.com.comrench.GenerateOutputFile - Kitchener            108            
+2018-02-12 00:34:43.623 [main] INFO  main.com.comrench.GenerateOutputFile - School2              3000           
+2018-02-12 00:34:43.623 [main] INFO  main.com.comrench.GenerateOutputFile - School1              3000           
+2018-02-12 00:34:43.623 [main] INFO  main.com.comrench.GenerateOutputFile - Waterloo             6000           
+2018-02-12 00:34:43.624 [main] INFO  main.com.comrench.GenerateOutputFile - ON                   6108           
+2018-02-12 00:34:43.627 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-12 00:35:13.955 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-12 00:35:13.961 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-12 00:35:14.233 [main] DEBUG main.com.comrench.Main - dateTime is 2018021203514
+2018-02-12 00:35:14.234 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-12 00:35:14.234 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-12 00:35:14.234 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_2018021203514.txt
+2018-02-12 00:35:14.234 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-12 00:35:14.235 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-12 00:35:14.235 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-12 00:35:14.237 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-12 00:35:14.241 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-12 00:35:14.243 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	K1000
+2018-02-12 00:35:14.262 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	12000
+2018-02-12 00:35:14.262 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School2	83000
+2018-02-12 00:35:14.262 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	K0043
+2018-02-12 00:35:14.262 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	10057
+2018-02-12 00:35:14.262 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	20003
+2018-02-12 00:35:14.262 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	30005
+2018-02-12 00:35:14.262 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	40000
+2018-02-12 00:35:14.265 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-12 00:35:14.271 [main] INFO  main.com.comrench.GenerateOutputFile - School3              108            
+2018-02-12 00:35:14.272 [main] INFO  main.com.comrench.GenerateOutputFile - Kitchener            108            
+2018-02-12 00:35:14.272 [main] INFO  main.com.comrench.GenerateOutputFile - School2              3000           
+2018-02-12 00:35:14.272 [main] INFO  main.com.comrench.GenerateOutputFile - School1              3000           
+2018-02-12 00:35:14.273 [main] INFO  main.com.comrench.GenerateOutputFile - Waterloo             6000           
+2018-02-12 00:35:14.273 [main] INFO  main.com.comrench.GenerateOutputFile - ON                   6108           
+2018-02-12 00:35:14.276 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-12 00:38:02.449 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-12 00:38:02.455 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-12 00:38:02.717 [main] DEBUG main.com.comrench.Main - dateTime is 201802120382
+2018-02-12 00:38:02.718 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-12 00:38:02.718 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-12 00:38:02.718 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_201802120382.txt
+2018-02-12 00:38:02.719 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-12 00:38:02.719 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-12 00:38:02.719 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-12 00:38:02.721 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-12 00:38:02.728 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-12 00:38:02.729 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	K1000
+2018-02-12 00:38:02.749 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	12000
+2018-02-12 00:38:02.750 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School2	83000
+2018-02-12 00:38:02.750 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	K0043
+2018-02-12 00:38:02.751 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	10057
+2018-02-12 00:38:02.751 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	20003
+2018-02-12 00:38:02.751 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	30005
+2018-02-12 00:38:02.751 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	40000
+2018-02-12 00:38:02.754 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-12 00:38:02.761 [main] INFO  main.com.comrench.GenerateOutputFile - School3              108            
+2018-02-12 00:38:02.761 [main] INFO  main.com.comrench.GenerateOutputFile - Kitchener            108            
+2018-02-12 00:38:02.761 [main] INFO  main.com.comrench.GenerateOutputFile - School2              3000           
+2018-02-12 00:38:02.762 [main] INFO  main.com.comrench.GenerateOutputFile - School1              3000           
+2018-02-12 00:38:02.762 [main] INFO  main.com.comrench.GenerateOutputFile - Waterloo             6000           
+2018-02-12 00:38:02.762 [main] INFO  main.com.comrench.GenerateOutputFile - ON                   6108           
+2018-02-12 00:38:02.766 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-12 00:42:42.669 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-12 00:42:42.675 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-12 00:42:42.927 [main] DEBUG main.com.comrench.Main - dateTime is 2018021204242
+2018-02-12 00:42:42.927 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-12 00:42:42.928 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-12 00:42:42.928 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_2018021204242.txt
+2018-02-12 00:42:42.928 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-12 00:42:42.928 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-12 00:42:42.928 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-12 00:42:42.930 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-12 00:42:42.936 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-12 00:42:42.938 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	K1000
+2018-02-12 00:42:42.957 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	12000
+2018-02-12 00:42:42.957 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School2	83000
+2018-02-12 00:42:42.958 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	K0043
+2018-02-12 00:42:42.958 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	10057
+2018-02-12 00:42:42.958 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	20003
+2018-02-12 00:42:42.958 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	30005
+2018-02-12 00:42:42.959 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	40000
+2018-02-12 00:42:42.961 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-12 00:42:42.969 [main] INFO  main.com.comrench.GenerateOutputFile - School3              108            
+2018-02-12 00:42:42.969 [main] INFO  main.com.comrench.GenerateOutputFile - Kitchener            108            
+2018-02-12 00:42:42.969 [main] INFO  main.com.comrench.GenerateOutputFile - School2              3000           
+2018-02-12 00:42:42.970 [main] INFO  main.com.comrench.GenerateOutputFile - School1              3000           
+2018-02-12 00:42:42.970 [main] INFO  main.com.comrench.GenerateOutputFile - Waterloo             6000           
+2018-02-12 00:42:42.970 [main] INFO  main.com.comrench.GenerateOutputFile - ON                   6108           
+2018-02-12 00:42:42.974 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-12 00:55:07.626 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-12 00:55:07.632 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-12 00:55:07.900 [main] DEBUG main.com.comrench.Main - dateTime is 201802120557
+2018-02-12 00:55:07.900 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-12 00:55:07.901 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-12 00:55:07.901 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_201802120557.txt
+2018-02-12 00:55:07.901 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-12 00:55:07.901 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-12 00:55:07.901 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-12 00:55:07.903 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-12 00:55:07.908 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-12 00:55:07.909 [main] ERROR main.com.comrench.ReadInputFile - Exception while processing the file
+2018-02-12 00:55:07.910 [main] DEBUG main.com.comrench.ReadInputFile - input\inputStats.txt (The system cannot find the file specified)
+2018-02-12 00:55:07.910 [main] ERROR main.com.comrench.Main - Unable to complete.
+2018-02-12 00:55:07.910 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-12 00:56:09.629 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-12 00:56:09.636 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-12 00:56:09.901 [main] DEBUG main.com.comrench.Main - dateTime is 201802120569
+2018-02-12 00:56:09.901 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-12 00:56:09.901 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-12 00:56:09.901 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_201802120569.txt
+2018-02-12 00:56:09.901 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-12 00:56:09.902 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-12 00:56:09.902 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-12 00:56:09.904 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-12 00:56:09.909 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-12 00:56:09.910 [main] ERROR main.com.comrench.ReadInputFile - Exception while processing the file
+2018-02-12 00:56:09.910 [main] INFO  main.com.comrench.ReadInputFile - java.io.FileNotFoundException: input\inputStats.txt (The system cannot find the file specified)
+2018-02-12 00:56:09.911 [main] ERROR main.com.comrench.Main - Unable to complete.
+2018-02-12 00:56:09.911 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-12 00:56:44.887 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-12 00:56:44.894 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-12 00:56:45.157 [main] DEBUG main.com.comrench.Main - dateTime is 2018021205645
+2018-02-12 00:56:45.158 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-12 00:56:45.158 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-12 00:56:45.158 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_2018021205645.txt
+2018-02-12 00:56:45.158 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-12 00:56:45.159 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-12 00:56:45.159 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-12 00:56:45.161 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-12 00:56:45.166 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-12 00:56:45.167 [main] ERROR main.com.comrench.ReadInputFile - Exception while processing the file
+2018-02-12 00:56:45.168 [main] ERROR main.com.comrench.ReadInputFile - java.io.FileNotFoundException: input\inputStats.txt (The system cannot find the file specified)
+2018-02-12 00:56:45.168 [main] ERROR main.com.comrench.Main - Unable to complete.
+2018-02-12 00:56:45.168 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-12 00:58:50.274 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-12 00:58:50.281 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-12 00:58:50.562 [main] DEBUG main.com.comrench.Main - dateTime is 2018021205850
+2018-02-12 00:58:50.562 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-12 00:58:50.562 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-12 00:58:50.563 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_2018021205850.txt
+2018-02-12 00:58:50.563 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-12 00:58:50.563 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-12 00:58:50.563 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-12 00:58:50.565 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-12 00:58:50.572 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-12 00:58:50.573 [main] ERROR main.com.comrench.ReadInputFile - Exception while processing the file
+2018-02-12 00:58:50.574 [main] ERROR main.com.comrench.ReadInputFile - java.io.FileNotFoundException: input\inputStats.txt (The system cannot find the file specified)
+2018-02-12 00:58:50.574 [main] ERROR main.com.comrench.Main - Unable to complete.
+2018-02-12 00:58:50.574 [main] INFO  main.com.comrench.Main - Errors during execution.
+2018-02-12 01:00:15.612 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-12 01:00:15.618 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-12 01:00:15.739 [main] ERROR main.com.comrench.Main - Input Configuration file not found at location: etc/config.xml
+2018-02-12 01:00:15.740 [main] DEBUG main.com.comrench.Main - Error while reading the confiration file.
+2018-02-12 01:00:15.740 [main] INFO  main.com.comrench.Main - Errors during execution.
+2018-02-12 01:01:01.176 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-12 01:01:01.183 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-12 01:01:01.346 [main] ERROR main.com.comrench.Main - Unable to read parse input XML file.
+2018-02-12 01:01:01.352 [main] DEBUG main.com.comrench.Main - Error while reading the confiration file.
+2018-02-12 01:01:01.353 [main] INFO  main.com.comrench.Main - Errors during execution.
+2018-02-12 01:01:26.512 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-12 01:01:26.518 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-12 01:01:26.638 [main] ERROR main.com.comrench.Main - Unable to read parse input XML file.
+2018-02-12 01:01:26.639 [main] ERROR main.com.comrench.Main - javax.xml.bind.UnmarshalException
+ - with linked exception:
+[org.xml.sax.SAXParseException; systemId: file:/C:/Users/Comrench/workspace_luna/PopulationWithBrownEyes/etc/config.xml; lineNumber: 1; columnNumber: 1; Premature end of file.]
+2018-02-12 01:01:26.639 [main] DEBUG main.com.comrench.Main - Error while reading the confiration file.
+2018-02-12 01:01:26.639 [main] INFO  main.com.comrench.Main - Errors during execution.
+2018-02-12 01:02:20.891 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-12 01:02:20.898 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-12 01:02:21.021 [main] ERROR main.com.comrench.Main - Unable to read parse input XML file.
+2018-02-12 01:02:21.021 [main] ERROR main.com.comrench.Main - javax.xml.bind.UnmarshalException
+ - with linked exception:
+[org.xml.sax.SAXParseException; systemId: file:/C:/Users/Comrench/workspace_luna/PopulationWithBrownEyes/etc/config.xml; lineNumber: 1; columnNumber: 1; Premature end of file.]
+2018-02-12 01:02:21.022 [main] ERROR main.com.comrench.Main - Catching
+javax.xml.bind.UnmarshalException: null
+	at javax.xml.bind.helpers.AbstractUnmarshallerImpl.createUnmarshalException(Unknown Source) ~[?:1.8.0_162]
+	at com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallerImpl.createUnmarshalException(Unknown Source) ~[?:1.8.0_162]
+	at com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallerImpl.unmarshal0(Unknown Source) ~[?:1.8.0_162]
+	at com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallerImpl.unmarshal(Unknown Source) ~[?:1.8.0_162]
+	at javax.xml.bind.helpers.AbstractUnmarshallerImpl.unmarshal(Unknown Source) ~[?:1.8.0_162]
+	at javax.xml.bind.helpers.AbstractUnmarshallerImpl.unmarshal(Unknown Source) ~[?:1.8.0_162]
+	at javax.xml.bind.helpers.AbstractUnmarshallerImpl.unmarshal(Unknown Source) ~[?:1.8.0_162]
+	at javax.xml.bind.helpers.AbstractUnmarshallerImpl.unmarshal(Unknown Source) ~[?:1.8.0_162]
+	at main.com.comrench.Main.readConfigurationFile(Main.java:122) [bin/:?]
+	at main.com.comrench.Main.execute(Main.java:90) [bin/:?]
+	at main.com.comrench.Main.main(Main.java:66) [bin/:?]
+Caused by: org.xml.sax.SAXParseException: Premature end of file.
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(Unknown Source) ~[?:1.8.0_162]
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(Unknown Source) ~[?:1.8.0_162]
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(Unknown Source) ~[?:1.8.0_162]
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(Unknown Source) ~[?:1.8.0_162]
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(Unknown Source) ~[?:1.8.0_162]
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(Unknown Source) ~[?:1.8.0_162]
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(Unknown Source) ~[?:1.8.0_162]
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(Unknown Source) ~[?:1.8.0_162]
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(Unknown Source) ~[?:1.8.0_162]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source) ~[?:1.8.0_162]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source) ~[?:1.8.0_162]
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(Unknown Source) ~[?:1.8.0_162]
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(Unknown Source) ~[?:1.8.0_162]
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(Unknown Source) ~[?:1.8.0_162]
+	... 9 more
+2018-02-12 01:02:21.043 [main] DEBUG main.com.comrench.Main - Error while reading the confiration file.
+2018-02-12 01:02:21.043 [main] INFO  main.com.comrench.Main - Errors during execution.
+2018-02-12 01:02:44.548 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-12 01:02:44.555 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-12 01:02:44.683 [main] ERROR main.com.comrench.Main - Unable to read parse input XML file.
+2018-02-12 01:02:44.684 [main] ERROR main.com.comrench.Main - javax.xml.bind.UnmarshalException
+ - with linked exception:
+[org.xml.sax.SAXParseException; systemId: file:/C:/Users/Comrench/workspace_luna/PopulationWithBrownEyes/etc/config.xml; lineNumber: 1; columnNumber: 1; Premature end of file.]
+2018-02-12 01:02:44.685 [main] DEBUG main.com.comrench.Main - Error while reading the confiration file.
+2018-02-12 01:02:44.685 [main] INFO  main.com.comrench.Main - Errors during execution.
+2018-02-12 01:03:23.827 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-12 01:03:23.835 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-12 01:03:24.092 [main] DEBUG main.com.comrench.Main - dateTime is 201802121323
+2018-02-12 01:03:24.093 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-12 01:03:24.093 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-12 01:03:24.093 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_201802121323.txt
+2018-02-12 01:03:24.093 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-12 01:03:24.094 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-12 01:03:24.094 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-12 01:03:24.096 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-12 01:03:24.100 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-12 01:03:24.102 [main] ERROR main.com.comrench.ReadInputFile - Exception while processing the file
+2018-02-12 01:03:24.102 [main] ERROR main.com.comrench.ReadInputFile - java.io.FileNotFoundException: input\inputStats.txt (The system cannot find the file specified)
+2018-02-12 01:03:24.103 [main] ERROR main.com.comrench.Main - Unable to complete.
+2018-02-12 01:03:24.103 [main] INFO  main.com.comrench.Main - Errors during execution.
+2018-02-12 01:03:58.983 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-12 01:03:58.990 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-12 01:03:59.259 [main] DEBUG main.com.comrench.Main - dateTime is 201802121359
+2018-02-12 01:03:59.259 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-12 01:03:59.260 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-12 01:03:59.260 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_201802121359.txt
+2018-02-12 01:03:59.260 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-12 01:03:59.260 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-12 01:03:59.260 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-12 01:03:59.262 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-12 01:03:59.267 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-12 01:03:59.270 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-12 01:03:59.275 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-12 01:06:18.366 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-12 01:06:18.374 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-12 01:06:18.503 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-12 01:06:18.504 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-12 01:06:18.505 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe.txt
+2018-02-12 01:06:18.505 [main] DEBUG main.com.comrench.Main - Output file override status: true
+2018-02-12 01:06:18.505 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-12 01:06:18.506 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-12 01:06:18.508 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-12 01:06:18.514 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-12 01:06:18.516 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	K1000
+2018-02-12 01:06:18.641 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	12000
+2018-02-12 01:06:18.642 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School2	83000
+2018-02-12 01:06:18.642 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	K0043
+2018-02-12 01:06:18.642 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	10057
+2018-02-12 01:06:18.643 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	20003
+2018-02-12 01:06:18.643 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	30005
+2018-02-12 01:06:18.643 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	40000
+2018-02-12 01:06:18.646 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-12 01:06:18.653 [main] INFO  main.com.comrench.GenerateOutputFile - School3              108            
+2018-02-12 01:06:18.653 [main] INFO  main.com.comrench.GenerateOutputFile - Kitchener            108            
+2018-02-12 01:06:18.654 [main] INFO  main.com.comrench.GenerateOutputFile - School2              3000           
+2018-02-12 01:06:18.654 [main] INFO  main.com.comrench.GenerateOutputFile - School1              3000           
+2018-02-12 01:06:18.654 [main] INFO  main.com.comrench.GenerateOutputFile - Waterloo             6000           
+2018-02-12 01:06:18.654 [main] INFO  main.com.comrench.GenerateOutputFile - ON                   6108           
+2018-02-12 01:06:18.658 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-12 01:06:37.263 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-12 01:06:37.271 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-12 01:06:37.395 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-12 01:06:37.396 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-12 01:06:37.396 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe.txt
+2018-02-12 01:06:37.396 [main] DEBUG main.com.comrench.Main - Output file override status: true
+2018-02-12 01:06:37.397 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-12 01:06:37.397 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-12 01:06:37.399 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-12 01:06:37.405 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-12 01:06:37.407 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	K1000
+2018-02-12 01:06:37.536 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	12000
+2018-02-12 01:06:37.537 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School2	83000
+2018-02-12 01:06:37.537 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	K0043
+2018-02-12 01:06:37.537 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	10057
+2018-02-12 01:06:37.537 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	20003
+2018-02-12 01:06:37.538 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	30005
+2018-02-12 01:06:37.538 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	40000
+2018-02-12 01:06:37.541 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-12 01:06:37.547 [main] INFO  main.com.comrench.GenerateOutputFile - School3              108            
+2018-02-12 01:06:37.548 [main] INFO  main.com.comrench.GenerateOutputFile - Kitchener            108            
+2018-02-12 01:06:37.548 [main] INFO  main.com.comrench.GenerateOutputFile - School2              3000           
+2018-02-12 01:06:37.548 [main] INFO  main.com.comrench.GenerateOutputFile - School1              3000           
+2018-02-12 01:06:37.549 [main] INFO  main.com.comrench.GenerateOutputFile - Waterloo             6000           
+2018-02-12 01:06:37.549 [main] INFO  main.com.comrench.GenerateOutputFile - ON                   6108           
+2018-02-12 01:06:37.552 [main] INFO  main.com.comrench.Main - Execution completed successfully.
+2018-02-12 01:07:24.724 [main] INFO  main.com.comrench.Main - Starting the execution ... 
+2018-02-12 01:07:24.731 [main] INFO  main.com.comrench.Main - Loading the configuation XML file: etc/config.xml
+2018-02-12 01:07:25.053 [main] DEBUG main.com.comrench.Main - dateTime is 201802121724
+2018-02-12 01:07:25.053 [main] INFO  main.com.comrench.Main - Configuration XML loaded successfully.
+2018-02-12 01:07:25.053 [main] DEBUG main.com.comrench.Main - Input file: input//inputStats.txt
+2018-02-12 01:07:25.054 [main] DEBUG main.com.comrench.Main - Output file: output//pwbe_201802121724.txt
+2018-02-12 01:07:25.054 [main] DEBUG main.com.comrench.Main - Output file override status: false
+2018-02-12 01:07:25.054 [main] DEBUG main.com.comrench.Main - Configutation file read successfully.
+2018-02-12 01:07:25.054 [main] DEBUG main.com.comrench.Main - Launching the processFile method.
+2018-02-12 01:07:25.056 [main] INFO  main.com.comrench.Manage - Input file name: input//inputStats.txt
+2018-02-12 01:07:25.063 [main] INFO  main.com.comrench.ReadInputFile - Processing the statistics of people from province, city & school.
+2018-02-12 01:07:25.064 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	K1000
+2018-02-12 01:07:25.089 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School1	12000
+2018-02-12 01:07:25.090 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Waterloo	School2	83000
+2018-02-12 01:07:25.090 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	K0043
+2018-02-12 01:07:25.090 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	10057
+2018-02-12 01:07:25.091 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	20003
+2018-02-12 01:07:25.091 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	30005
+2018-02-12 01:07:25.091 [main] INFO  main.com.comrench.ProcessInputRecord - Processing record: ON	Kitchener	School3	40000
+2018-02-12 01:07:25.094 [main] INFO  main.com.comrench.GenerateOutputFile - Generating the report.
+2018-02-12 01:07:25.102 [main] INFO  main.com.comrench.GenerateOutputFile - School3              108            
+2018-02-12 01:07:25.103 [main] INFO  main.com.comrench.GenerateOutputFile - Kitchener            108            
+2018-02-12 01:07:25.103 [main] INFO  main.com.comrench.GenerateOutputFile - School2              3000           
+2018-02-12 01:07:25.103 [main] INFO  main.com.comrench.GenerateOutputFile - School1              3000           
+2018-02-12 01:07:25.104 [main] INFO  main.com.comrench.GenerateOutputFile - Waterloo             6000           
+2018-02-12 01:07:25.104 [main] INFO  main.com.comrench.GenerateOutputFile - ON                   6108           
+2018-02-12 01:07:25.108 [main] INFO  main.com.comrench.Main - Execution completed successfully.
