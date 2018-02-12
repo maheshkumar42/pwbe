@@ -12,14 +12,15 @@ Flow of application is as follows:
 		a).	if yes add the population to existing city of that province.
 		b).	if no create the new city in the province and add the population to the new city of that province.
 	- Check if School already exists in the City of the province 
-			a).	if yes add the population to existing School of that city for that province.
-		b).	if no create the new School in the city of that province and add the population to the new School of 
-		that city for that province.
+		a).	if yes add the population to existing School of that city for that province.
+		b).	if no create the new School in the city of that province and add the population to the new School of that city for that province.
 7. Once all the records are done then it creates the output file.
 8. Then updates the output file summarizing total population per school, city and province.
 
 Ecliplse Version: eclipse-java-luna-SR2-win32-x86_64
 Java Version: "1.8.0_162"
+
+Note: Application uses log4j2 for logging and its jar are in dist folder.
 
 Usage:
 Usage   : java -Dlog4j.configurationFile=File:<log4j2XmlFile> -jar <jarFile> <inputXmlFile>
